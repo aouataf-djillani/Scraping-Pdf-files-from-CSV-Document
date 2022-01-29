@@ -1,0 +1,3721 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+	   
+   
+    <head>
+
+
+
+
+
+<link rel="stylesheet" href="https://use.typekit.net/tcp5eab.css"/>
+<link rel="preload" as="style" href="/etc.clientlibs/hitachivantara/clientlibs/clientlib-hv-min.min.css"/>
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/hitachivantara/clientlibs/clientlib-hv-min.min.css" type="text/css">
+
+
+
+	
+<link rel="preload" as="font" href="/etc.clientlibs/hitachivantara/clientlibs/resources/fonts/urwdin-bold.woff2" type="font/woff2" crossorigin="anonymous"/>
+<link rel="preload" as="font" href="/etc.clientlibs/hitachivantara/clientlibs/resources/fonts/urwdin-light.woff2" type="font/woff2" crossorigin="anonymous"/>
+<link rel="preload" as="font" href="/etc.clientlibs/hitachivantara/clientlibs/resources/fonts/urwdin-medium.woff2" type="font/woff2" crossorigin="anonymous"/>
+<link rel="preload" as="font" href="/etc.clientlibs/hitachivantara/clientlibs/resources/fonts/urwdin-regular.woff2" type="font/woff2" crossorigin="anonymous"/>
+<link rel="preload" as="font" href="/etc.clientlibs/hitachivantara/clientlibs/resources/fonts/urwdin-demi.woff2" type="font/woff2" crossorigin="anonymous"/>
+<link rel="preload" as="style" href="/tealium/webchat/webchat.css"/>
+<link rel="preload" as="script" href="/etc.clientlibs/hitachivantara/clientlibs/clientlib-hv-vendors.min.js"/>
+
+    
+<script type="text/javascript" src="/etc.clientlibs/hitachivantara/clientlibs/clientlib-hv-vendors.min.js"></script>
+
+
+
+   <link rel="preload" as="script" href="/etc.clientlibs/hitachivantara/clientlibs/clientlib-hv-min.min.js"/>
+
+	
+	
+		<script src="https://tags.tiqcdn.com/utag/hitachi/main/prod/utag.sync.js"></script>
+	
+	
+	<script src="https://js.adsrvr.org/up_loader.1.1.0.js" defer type="text/javascript"></script>
+    <meta charset="UTF-8"/>
+
+
+   
+    
+
+
+    <meta name="twitter:card" content="summary_large_image"/>
+	   	 <meta name="twitter:site" content="@HitachiVantara"/>
+    <meta property="twitter:account_id" content="15354310"/>
+    <meta name="twitter:creator" content="@HitachiVantara"/>
+		<meta name="language" content="en"/>
+	<meta name="country" content="us"/>
+
+
+
+
+
+
+
+
+    
+        <meta name="robots" content="INDEX, FOLLOW" />
+    
+    
+
+
+	
+
+ 
+
+
+	
+	
+		
+		
+			<title>Data Management and Analytics | Hitachi Vantara</title>
+		
+
+		<meta name="keywords" content="data management analytics, improve data operations, data management for ai, data management for data integration
+"/>
+		<meta name="description" content="Data Management and Analytics simplifies your data operations and democratize information access for all your enterprise stakeholders with policy-based automation and metadata-driven data management.
+"/>
+		<meta property="og:title" content="Data Management and Analytics"/>
+        
+			<meta property="og:description" content="Data Management and Analytics simplifies your data operations and democratize information access for all your enterprise stakeholders with policy-based automation and metadata-driven data management.
+"/>
+		
+		 
+			<meta property="assesttag" content="common:products/data-management-for-analytics"/>
+		
+		
+		<meta name="section" content="html"/>
+
+	
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+  
+	  
+
+
+
+<meta property="og:type" content="website"/>
+<meta property="og:image" content="https://www.hitachivantara.com/content/dam/public/en_us/images/sharing-graphic.jpg"/>
+
+
+<meta property="og:url" content="https://www.hitachivantara.com/en-us/products/data-management-analytics.html"/>
+
+	
+
+    
+        <meta name="bucls" content="DS"/>
+    
+    
+
+	
+
+ <link rel="alternate" hreflang="es-co" href="https://www.hitachivantara.com/es-latam/products/data-management-analytics.html" />
+<link rel="alternate" hreflang="es-mx" href="https://www.hitachivantara.com/es-latam/products/data-management-analytics.html" />
+<link rel="alternate" hreflang="es-la" href="https://www.hitachivantara.com/es-latam/products/data-management-analytics.html" />
+<link rel="alternate" hreflang="es-ve" href="https://www.hitachivantara.com/es-latam/products/data-management-analytics.html" />
+<link rel="alternate" hreflang="es-cl" href="https://www.hitachivantara.com/es-latam/products/data-management-analytics.html" />
+<link rel="alternate" hreflang="en-hk" href="https://www.hitachivantara.com/en-hk/products/data-management-analytics.html" />
+<link rel="alternate" hreflang="en-bn" href="https://www.hitachivantara.com/en-asean/products/data-management-analytics.html" />
+<link rel="alternate" hreflang="en-kh" href="https://www.hitachivantara.com/en-asean/products/data-management-analytics.html" />
+<link rel="alternate" hreflang="en-id" href="https://www.hitachivantara.com/en-asean/products/data-management-analytics.html" />
+<link rel="alternate" hreflang="en-la" href="https://www.hitachivantara.com/en-asean/products/data-management-analytics.html" />
+<link rel="alternate" hreflang="en-my" href="https://www.hitachivantara.com/en-asean/products/data-management-analytics.html" />
+<link rel="alternate" hreflang="en-mm" href="https://www.hitachivantara.com/en-asean/products/data-management-analytics.html" />
+<link rel="alternate" hreflang="en-ph" href="https://www.hitachivantara.com/en-asean/products/data-management-analytics.html" />
+<link rel="alternate" hreflang="en-sg" href="https://www.hitachivantara.com/en-asean/products/data-management-analytics.html" />
+<link rel="alternate" hreflang="en-th" href="https://www.hitachivantara.com/en-asean/products/data-management-analytics.html" />
+<link rel="alternate" hreflang="en-vn" href="https://www.hitachivantara.com/en-asean/products/data-management-analytics.html" />
+<link rel="alternate" hreflang="en-au" href="https://www.hitachivantara.com/en-anz/products/data-management-analytics.html" />
+<link rel="alternate" hreflang="en-nz" href="https://www.hitachivantara.com/en-anz/products/data-management-analytics.html" />
+<link rel="alternate" hreflang="en-in" href="https://www.hitachivantara.com/en-in/products/data-management-analytics.html" />
+<link rel="alternate" hreflang="x-default" href="https://www.hitachivantara.com/en-us/products/data-management-analytics.html" />
+<link rel="alternate" hreflang="en-us" href="https://www.hitachivantara.com/en-us/products/data-management-analytics.html" />
+<link rel="alternate" hreflang="ru-ru" href="https://www.hitachivantara.com/ru-ru/products/data-management-analytics.html" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.hitachivantara.com/zh-cn/products/data-management-analytics.html" />
+<link rel="alternate" hreflang="de-de" href="https://www.hitachivantara.com/de-de/products/data-management-analytics.html" />
+
+
+	
+	
+		<link rel="canonical" href="https://www.hitachivantara.com/en-us/products/data-management-analytics.html"/>
+	
+	
+	
+
+<!-- <script type="text/javascript">
+	// grab url params
+	function gup( name, url )
+	{
+		name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+		var regexS = "[\\?&]"+name+"=([^&#]*)";
+		var regex = new RegExp(regexS, 'i');
+		if ( url == null )
+			url = window.location.href;
+		var results = regex.exec( url );
+		if( results == null )
+		  return "";
+		else
+		  return unescape(results[1]);
+	}
+
+	var utm_medium = gup("utm_medium");
+	var utm_campaign = gup("utm_campaign");
+	var utm_content = gup("utm_content");
+	var utm_source = gup("utm_source");
+</script> -->
+
+
+
+
+
+
+
+<script src="//scripts.demandbase.com/adobeanalytics/017c173f.min.js" defer></script>
+<script src="//api.company-target.com/api/v2/ip.json?key=RM8mKulNdWCRSojLCXKgd2vWpEKWnJegm1Hm6ylL&callback=Dmdbase_CDC.callback" defer></script>
+
+    
+
+    
+
+
+    
+    
+
+
+
+
+
+    
+
+    
+    
+    
+
+    
+
+    
+    
+    
+
+								
+		  
+    
+<script src="//pages.hitachivantara.com/js/forms2/js/forms2.min.js"></script>
+</head>
+    <body class="page basicpage">
+        
+        
+            
+
+
+
+            <div class="root responsivegrid">
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+
+  
+<div class="cmp-experiencefragment cmp-experiencefragment--header-main-v1">
+
+
+    
+    <div class="cmp-container">
+        
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="globalheaderv1 aem-GridColumn aem-GridColumn--default--12">
+
+
+
+ 
+
+
+
+
+
+<div class="loadOverlay" style="display:block; background-color:#ffffff"></div>
+
+
+
+
+
+	
+ <div>
+  <!--<div data-component-title="topbar promo" data-component-id="topbar-promo-header" class="scrapper clearfix">
+    <section class="storage-scrapper" style="background-image: url(/content/dam/public/en_us/images/common/cop26-scrapper-bg-image.jpg);">                
+        <div class="container">
+            <div class="row" style="align-items: center;">            
+                <div class="col-md-9 sec-cl">
+                    <p class="sec-cl-para">Uniting the World to Tackle Climate Change</p>
+                    <h1 class="sec-cl-heading">Watch Our COP26 Keynote <span class="live-green-txt">Live Event</span></h1>
+                    <p class="scpr-btn-para desk-hide">Nov9th@7amPT | 10amET</p>
+                </div>
+                <div class="col-md-3 scrapper-btn">
+                    <p class="scpr-btn-para mob-hide">Nov9th@7amPT | 10amET</p>
+                    <a href="https://www.hitachivantara.com/en-us/company/corporate-social-responsibility.html" target="_blank" class="c-btn green scrapper-btn-img">                        
+                        Learn More                        
+                    </a>
+                    <a href="https://www.hitachivantara.com/en-us/company/corporate-social-responsibility.html" target="_blank" class="scrapper-icon">
+                        <svg class="icon">
+                            <use xlink:href="/content/dam/public/en_us/images/common/home.svg#arrow-icon"></use>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>-->
+  </div>
+ <style>
+  /*.storage-scrapper{
+    position: relative;
+    height: 150px;
+    align-items: center;
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.scrapper-img{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.scrapper-img img{
+    width: 100%;
+    height: 150px;
+}
+.fir-cl .fir-cl-heading{
+    color: #fff;     
+    font-size: 24px; 
+    font-weight: 600;  
+    font-family: neue-haas-grotesk-display, sans-serif;    
+}
+.sec-cl{
+    padding-left: 20px;
+}
+.sec-cl .sec-cl-heading{
+    color: #fff;
+    font-size: 32px;
+    font-weight: 600;
+    font-family: neue-haas-grotesk-display, sans-serif;
+}
+.sec-cl .sec-cl-para{
+    color: #fff;     
+    font-size: 22px;
+    margin-bottom: 0; 
+    font-family: neue-haas-grotesk-display, sans-serif;      
+}
+.scrapper-btn img{
+    width: 100%;
+}
+.scrapper-underline{
+    position: relative;
+}
+.scrapper-underline::after{
+    content: '';
+    position: absolute;
+    height: 5px;
+    background-color: #cc0000;         
+    left: 0;
+    bottom: 0;
+    width: 100%;   
+}
+.scrapper-icon{
+    display: none;
+}
+.scrapper-icon svg{
+    width: 20px;
+    height: 20px;
+}
+.scrapper-btn{
+    text-align: center;
+}
+.scrapper-btn .green{
+    color: #38328c;
+    background: #8cdd74;
+    width: 85%;
+    font-size: 18px;
+    margin: auto;
+}
+.scpr-btn-para{
+    color: #fff;
+    font-weight: 600;
+    font-family: neue-haas-grotesk-display, sans-serif;      
+}
+.desk-hide{
+    display: none;
+}
+.live-green-txt{
+    color: #8cdd74;
+}
+@media screen and (max-width: 767px) {
+    .desk-hide{
+        display: block;
+        margin-bottom: 0;
+        font-size: 12px;
+    }
+    .mob-hide{
+        display: none;
+    }
+    .storage-scrapper{
+        height: 100px;
+        background-position: center;
+    }
+    .fir-cl{
+        width: 25%;
+    }
+    .fir-cl .fir-cl-heading{
+        font-size: 16px;
+    }
+    .sec-cl{
+        width: 80%;
+        padding-left: 10px;
+    }
+    .sec-cl .sec-cl-heading{
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+    .sec-cl .sec-cl-para{
+        font-size: 12px;
+    }
+    .scrapper-btn{
+        width: 20%;
+    }
+    .scrapper-underline::after{
+        content: '';
+        position: absolute;
+        height: 2px;
+        background-color: #cc0000;         
+        left: 0;
+        bottom: 0;
+        width: 100%;   
+    }
+    .scrapper-icon{
+        display: block;
+        width: 20px;
+        height: 20px;
+        fill: #fff;
+        transform: rotate(45deg);
+    }
+    .scrapper-btn-img{
+        display: none;
+    }
+}
+@media screen and (max-width: 1024px) {
+    .scpr-btn-para{
+        font-size: 13px;
+    }
+    .scrapper-btn .green{
+        width: 80%;
+        font-size: 14px;
+    }
+	.storage-scrapper{
+        background-position: center;
+    }
+}*/
+  </style>
+  <script>
+  
+   </script>
+
+
+
+<header class="hv-header v1" data-component-title="Global Header V1" data-component-id="hv-header">
+	<div id="hv-header-v1">
+		<nav class="hv-utility-nav" role="navigation">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-2 col-5 brand-logo">
+						<a target="_self" href="/en-us/home.html">
+							<svg role="img" aria-labelledby="hitachi-inspire-the-next-logo">
+								<title id="hitachi-inspire-the-next-logo">HITACHI INSPIRE THE NEXT LOGO</title>
+								<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite-new.svg#hitachi-inspire-the-next-logo" xlink:title="HITACHI INSPIRE THE NEXT LOGO"></use>
+							</svg>
+						</a>
+					</div>
+					<div class="col-sm-10 col-7">
+						<div class="quick-nav">
+							<ul>
+								
+									<li>
+										<label class="d-none">Search</label>
+									<input title="Search" type="text" placeholder="Search" class="gsaSearchBox" data-href="/en-us/search-results.html"/> 
+										
+									<span class="search-icon">
+										<div class="hv-close"></div>
+                                        <svg role="img" aria-labelledby="search-a" class="icon-search">
+                                            <title id="search-a">SEARCH</title>
+                                            <use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite-new.svg#search-icon" xlink:title="SEARCH"></use>
+                                        </svg>
+                                    </span>
+										 <div class="search_suggestion">
+											<div class="suggest_btm">
+												<div class="suggestion clearfix"> 
+													<div class="hv-close search_close"></div>
+												</div>
+												<div class="suggest_content">
+													<div class="search-mb-list"></div>
+												</div>
+											</div>
+										   </div>
+
+									</li>
+								
+								
+									
+										<li> <a href="javascript:void(0);" class="geo-loc" rel="noopener">
+										Location
+									</a> <span class="arrow-link d-lg-none"></span>
+											<div class="mg-loc"></div>
+										</li>
+									
+									
+								
+									
+									
+										<li> <a href="https://community.hitachivantara.com/s/" rel="noopener" target="_blank">
+                                Community
+                                <span class="community-icon">
+                                    <svg>
+                                        <title>Community</title>
+                                        <use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite-new.svg#community" xlink:title="Community"></use>
+                                    </svg>
+                                </span>
+                            </a> </li>
+									
+								
+									
+									
+										<li> <a href="https://support.hitachivantara.com/" rel="noopener" target="_blank">
+                                Get Support
+                                <span class="community-icon">
+                                    <svg>
+                                        <title>Get Support</title>
+                                        <use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite-new.svg#support" xlink:title="Get Support"></use>
+                                    </svg>
+                                </span>
+                            </a> </li>
+									
+								
+									
+									
+										<li> <a href="https://partner.hitachivantara.com/" rel="noopener" target="_blank">
+                                Partner
+                                <span class="community-icon">
+                                    <svg>
+                                        <title>Partner</title>
+                                        <use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite-new.svg#partner" xlink:title="Partner"></use>
+                                    </svg>
+                                </span>
+                            </a> </li>
+									
+								
+							</ul>
+						</div>
+						<div class="mobile-nav-open-btn">
+							<div class="hmenu">
+								<div class="icon"> <svg>
+                                        <use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite-new.svg#hamburger"></use>
+                                      </svg> </div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</nav>
+		<nav class="hv-main-nav">
+			<div class="container">
+				<div class="wrapper">
+					
+						<div class="navbar-brand">
+							<a class="" href="/en-us/home.html">
+								<svg class="icon">
+									<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite-new.svg#vantara-site-title-logo"></use>
+								</svg>Hitachi Vantara
+							</a>
+						</div>
+					
+					<div class="desktop-nav-open-btn ml-auto">
+						<div class="hmenu">
+							<div class="icon"> <svg>
+                                        <use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite-new.svg#hamburger"></use>
+                                      </svg> </div>
+						</div>
+					</div>
+					<div class="hv-menu-dynamic">
+						<ul class="hv-menu ml-auto">
+							
+								
+								
+								
+								
+								
+									<li class="hv-menu-item "> <a class="hv-menu-link " href="#">Solutions</a> <span class="arrow-link d-lg-none"></span>
+										
+											
+
+
+	 
+
+
+	 
+
+	 
+<div class="hv-megamenu">
+	<div class="container">
+		
+		<div class="row">
+			<div class="col-lg-9">
+				<div class="row">
+					<div class="col-lg-4">
+						<div class="hv-normal-list">
+							<ul>
+								
+									<li> <a href="/en-us/solutions/modernize-digital-core.html" target="_self">Modernize the Digital Core</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+												<li><a target="_self" href="/en-us/solutions/modernize-digital-core/application-modernization.html">Application Modernization</a></li>
+											
+												<li><a target="_self" href="/en-us/solutions/modernize-digital-core/infrastructure-modernization.html">Infrastructure Modernization</a></li>
+											
+												<li><a target="_self" href="/en-us/solutions/modernize-digital-core/data-modernization.html">Data Modernization</a></li>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="/en-us/solutions/modernize-digital-core/infrastructure-modernization.html" target="_self">Infrastructure Modernization</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+												<li><a target="_self" href="/en-us/solutions/modernize-digital-core/infrastructure-modernization/application-infrastructure.html">Application Infrastructure</a></li>
+											
+												<li><a target="_self" href="/en-us/solutions/modernize-digital-core/infrastructure-modernization/data-protection-solutions.html">Data Protection</a></li>
+											
+												<li><a target="_self" href="/en-us/solutions/modernize-digital-core/infrastructure-modernization/application-infrastructure/cloud-storage-for-applications.html">Cloud Storage for Applications</a></li>
+											
+												<li><a target="_self" href="/en-us/solutions/modernize-digital-core/infrastructure-modernization/hybrid-cloud-infrastructure.html">Hybrid Cloud Infrastructure</a></li>
+											
+												<li><a target="_self" href="/en-us/everflex.html">Infrastructure as a Service</a></li>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="/en-us/solutions/modernize-digital-core/data-modernization.html" target="_self">Data Modernization</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+												<li><a target="_self" href="/en-us/solutions/modernize-digital-core/data-modernization/cloud-data-management.html">Cloud Data Management</a></li>
+											
+												<li><a target="_self" href="/en-us/solutions/modernize-digital-core/data-modernization/data-lakes-data-warehouses.html">Data Lakes and Data Warehouses</a></li>
+											
+												<li><a target="_self" href="/en-us/solutions/modernize-digital-core/data-modernization/data-integration.html">Data Integration</a></li>
+											
+												<li><a target="_self" href="/en-us/solutions/modernize-digital-core/data-modernization/ai-driven-solutions.html">AI-Driven Solutions</a></li>
+											
+										</ul>
+									</li>
+								
+							</ul>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="hv-normal-list">
+							<ul>
+								
+									<li> <a href="/en-us/solutions/midrange-storage-solutions.html" target="_self">Midrange Storage Solutions</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="/en-us/solutions/smart-spaces.html" target="_self">Smart Spaces</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="/en-us/solutions/data-driven-industrial-operations.html" target="_self">Data-Driven Industrial Operations</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="/en-us/solutions/modernize-digital-core/application-modernization.html" target="_self">Application Modernization</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+												<li><a target="_self" href="/en-us/solutions/modernize-digital-core/application-modernization/cloud-modernization.html">Cloud Modernization</a></li>
+											
+												<li><a target="_self" href="/en-us/solutions/modernize-digital-core/application-modernization/application-modernization.html">Application Modernization</a></li>
+											
+												<li><a target="_self" href="/en-us/solutions/modernize-digital-core/application-modernization/application-engineering.html">Application Engineering</a></li>
+											
+												<li><a target="_self" href="/en-us/solutions/modernize-digital-core/application-modernization/erp-modernization-for-sap.html">ERP Modernization for SAP</a></li>
+											
+												<li><a target="_self" href="/en-us/solutions/modernize-digital-core/application-modernization/erp-modernization-for-oracle.html">ERP Modernization for Oracle</a></li>
+											
+										</ul>
+									</li>
+								
+							</ul>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="hv-blue-list webpImg lazyload hv-blue-list-bg">
+							<ul>
+								
+									<li> <a href="/en-us/solutions/industry-solutions.html" target="_self">Industry Solutions</a>
+										<ul>
+											
+												<li><a target="_self" href="/en-us/solutions/industry-solutions/banking-insurance.html">Banking and Insurance</a></li>
+											
+												<li><a target="_self" href="/en-us/solutions/industry-solutions/manufacturing.html">Manufacturing</a></li>
+											
+												<li><a target="_self" href="/en-us/solutions/industry-solutions/energy-utilities.html">Energy and Utilities</a></li>
+											
+												<li><a target="_self" href="/en-us/solutions/industry-solutions/healthcare-life-sciences.html">Healthcare and Life Sciences</a></li>
+											
+												<li><a target="_self" href="/en-us/solutions/industry-solutions/retail.html">Retail</a></li>
+											
+												<li><a target="_self" href="/en-us/solutions/industry-solutions/government.html">Government</a></li>
+											
+												<li><a target="_self" href="/en-us/solutions/industry-solutions/transportation.html">Transportation</a></li>
+											
+										</ul>
+									</li>
+								
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+				<div class="col-lg-3">
+					<div class="row">
+						
+							<div class="col-lg-12">
+								<div class="hv-featured-box"> <a href="/en-us/everflex.html" target="_self" class="c-anchor-block">EVERFLEX</a>
+									<div class="featured-image">
+										<div class="pop">
+											
+											<picture>
+												<source type="image/webp" data-srcset="https://www.hitachivantara.com/content/dam/public/en_us/image/mega-menu/mm-industry-solutions.webp"/>
+												<source type="image/jpg" data-srcset="https://www.hitachivantara.com/content/dam/public/en_us/image/mega-menu/mm-industry-solutions.jpg"/> <img class="img-fluid lazyload" data-src="https://www.hitachivantara.com/content/dam/public/en_us/image/mega-menu/mm-industry-solutions.jpg"/> </picture>
+										</div>
+									</div>
+									<div class="featured-content">
+										<div class="title">EVERFLEX</div>
+										<div class="desc">
+											
+											
+										</div>
+									</div>
+								</div>
+							</div>
+						
+					</div>
+				</div>
+			
+		</div>
+		<div class="closeIpadMMenu d-md-none d-lg-block d-xl-none"> <span class="tab-close-icon"></span> Close </div>
+	</div>
+</div> 
+									</li>
+								
+								
+								
+								</li>
+								
+							
+								
+								
+								
+								
+								
+									<li class="hv-menu-item active"> <a class="hv-menu-link " href="#">Products</a> <span class="arrow-link d-lg-none"></span>
+										
+											
+
+
+	 
+
+
+	 
+
+<div class="hv-megamenu">
+	<div class="container">
+		
+		<div class="row">
+			<div class="col-lg-9">
+				<div class="row">
+					<div class="col-lg-6">
+						<div class="hv-normal-list">
+							<ul>
+								
+									<li> <a href="/en-us/products/storage.html" target="_self">Storage</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+												<li><a target="_self" href="/en-us/products/storage/flash-storage.html">Flash Storage</a></li>
+											
+												<li><a target="_self" href="/en-us/products/storage/object-storage.html">Object Storage</a></li>
+											
+												<li><a target="_self" href="/en-us/products/storage/software-defined-storage.html">Software Defined Storage</a></li>
+											
+												<li><a target="_self" href="/en-us/products/storage/network-attached-storage.html">Network Attached Storage</a></li>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="/en-us/products/converged-hyperconverged-infrastructure.html" target="_self">Converged and Hyperconverged Infrastructure</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="/en-us/products/it-operations-management.html" target="_self">IT Operations Management</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+												<li><a target="_self" href="/en-us/products/it-operations-management/ops-center.html">Hitachi Ops Center</a></li>
+											
+												<li><a target="_self" href="/en-us/products/it-operations-management/unified-compute-platform-advisor.html">Unified Compute Platform Advisor</a></li>
+											
+										</ul>
+									</li>
+								
+							</ul>
+						</div>
+					</div>
+					<div class="col-lg-6">
+						<div class="hv-normal-list">
+							<ul>
+								
+									<li> <a href="/en-us/products/iot-software-solutions.html" target="_self">IoT Software and Solutions</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+												<li><a target="_self" href="/en-us/products/iot-software-solutions/lumada-software-for-iiot.html">Lumada Software for IIoT</a></li>
+											
+												<li><a target="_self" href="/en-us/products/iot-software-solutions/lumada-manufacturing-insights.html">Lumada Manufacturing Insights</a></li>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="/en-us/products/data-management-analytics.html" target="_self">Data Management and Analytics</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+												<li><a target="_self" href="/en-us/products/data-management-analytics/lumada-dataops-suite.html">Lumada DataOps Suite</a></li>
+											
+												<li><a target="_self" href="/en-us/products/data-management-analytics/pentaho/download-pentaho.html">Download Pentaho</a></li>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="/en-us/products/data-protection.html" target="_self">Data Protection</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="/en-us/products/video-intelligence.html" target="_self">Video Intelligence</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+							</ul>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+			
+				<div class="col-lg-3">
+					<div class="row">
+						
+							<div class="col-lg-12">
+								<div class="hv-featured-box"> <a href="/en-us/solutions/midrange-storage-solutions.html" target="_self" class="c-anchor-block">Proven. Powerful. Predictable.</a>
+									<div class="featured-image">
+										<div class="pop">
+											
+											<picture>
+												<source type="image/webp" data-srcset="https://www.hitachivantara.com/content/dam/public/en_us/image/mega-menu/product-featured-1.webp"/>
+												<source type="image/jpg" data-srcset="https://www.hitachivantara.com/content/dam/public/en_us/image/mega-menu/product-featured-1.jpg"/> <img class="img-fluid lazyload" data-src="https://www.hitachivantara.com/content/dam/public/en_us/image/mega-menu/product-featured-1.jpg"/> </picture>
+										</div>
+									</div>
+									<div class="featured-content">
+										<div class="title">Proven. Powerful. Predictable.</div>
+										<div class="desc">
+											<p><p>Here's your new VSP portfolio. Work smarter with enterprise-class systems priced for your midsized business.</p>
+</p>
+											<div class="c-link white"> Explore Midrange Portfolio
+												<svg>
+													<title>Explore Midrange Portfolio</title>
+													<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="Explore Midrange Portfolio"></use>
+												</svg>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						
+					</div>
+				</div>
+			
+		</div>
+		<div class="closeIpadMMenu d-md-none d-lg-block d-xl-none"> <span class="tab-close-icon"></span> Close </div>
+	</div>
+</div> 
+									</li>
+								
+								
+								
+								</li>
+								
+							
+								
+								
+								
+								
+								
+									<li class="hv-menu-item "> <a class="hv-menu-link " href="#">Services</a> <span class="arrow-link d-lg-none"></span>
+										
+											
+
+
+	 
+
+
+	 
+
+<div class="hv-megamenu">
+	<div class="container">
+		
+		<div class="row">
+			<div class="col-lg-9">
+				<div class="row">
+					<div class="col-lg-6">
+						<div class="hv-normal-list">
+							<ul>
+								
+									<li> <a href="/en-us/services/consulting-services.html" target="_self">Consulting Services</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+												<li><a target="_self" href="/en-us/services/consulting-services/digital-strategy-advisory.html">Digital Strategy Advisory Services</a></li>
+											
+												<li><a target="_self" href="/en-us/services/consulting-services/data-modernization.html">Data Modernization Services</a></li>
+											
+												<li><a target="_self" href="/en-us/services/consulting-services/ai-insights.html">AI &amp; Insights Services</a></li>
+											
+												<li><a target="_self" href="/en-us/services/consulting-services/cloud-modernization.html">Cloud Modernization Services</a></li>
+											
+												<li><a target="_self" href="/en-us/services/consulting-services/digital-experience.html">Digital Experience Services</a></li>
+											
+												<li><a target="_self" href="/en-us/services/consulting-services/managed.html">Managed Services</a></li>
+											
+										</ul>
+									</li>
+								
+							</ul>
+						</div>
+					</div>
+					<div class="col-lg-6">
+						<div class="hv-normal-list">
+							<ul>
+								
+									<li> <a href="/en-us/services/edge-to-cloud-infrastructure-services.html" target="_self">Edge to Cloud Infrastructure Services</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+												<li><a target="_self" href="/en-us/services/edge-to-cloud-infrastructure-services/infrastructure.html">Infrastructure Services</a></li>
+											
+												<li><a target="_self" href="/en-us/services/edge-to-cloud-infrastructure-services/enterprise-cloud.html">Hitachi Enterprise Cloud</a></li>
+											
+												<li><a target="_self" href="/en-us/services/edge-to-cloud-infrastructure-services/kubernetes.html">Hitachi Kubernetes Service</a></li>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="/en-us/services/customer-support.html" target="_self">Customer Support Services</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+												<li><a target="_self" href="/en-us/services/customer-support/lumada-pentaho-support.html">Lumada and Pentaho Support Services</a></li>
+											
+												<li><a target="_self" href="/en-us/services/customer-support/preferred-customer.html">Preferred Customer Services</a></li>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="/en-us/services/training.html" target="_self">Training</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="/en-us/services/certifications.html" target="_self">Certification</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+							</ul>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+			
+				<div class="col-lg-3">
+					<div class="row">
+						
+							<div class="col-lg-12">
+								<div class="hv-featured-box"> <a href="/en-us/services/consulting-services.html" target="_self" class="c-anchor-block">Consulting Services</a>
+									<div class="featured-image">
+										<div class="pop">
+											
+											<picture>
+												<source type="image/webp" data-srcset="https://www.hitachivantara.com/content/dam/public/en_us/image/mega-menu/services-featured-1.webp"/>
+												<source type="image/jpg" data-srcset="https://www.hitachivantara.com/content/dam/public/en_us/image/mega-menu/services-featured-1.jpg"/> <img class="img-fluid lazyload" data-src="https://www.hitachivantara.com/content/dam/public/en_us/image/mega-menu/services-featured-1.jpg"/> </picture>
+										</div>
+									</div>
+									<div class="featured-content">
+										<div class="title">Consulting Services</div>
+										<div class="desc">
+											<p><p>Our consulting services help you unlock your digital transformation with agility and innovation.</p>
+</p>
+											<div class="c-link white"> Transform Now
+												<svg>
+													<title>Transform Now</title>
+													<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="Transform Now"></use>
+												</svg>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						
+					</div>
+				</div>
+			
+		</div>
+		<div class="closeIpadMMenu d-md-none d-lg-block d-xl-none"> <span class="tab-close-icon"></span> Close </div>
+	</div>
+</div> 
+									</li>
+								
+								
+								
+								</li>
+								
+							
+								
+								
+								
+								
+								
+									<li class="hv-menu-item "> <a class="hv-menu-link " href="#">EverFlex</a> <span class="arrow-link d-lg-none"></span>
+										
+											
+
+
+	 
+	 
+
+
+	 
+
+<div class="hv-megamenu">
+	<div class="container">
+		<div class="megamenu-view-all top-head">
+			<div class="row">
+				<div class="col-md-12"> <a href="/en-us/everflex.html" target="_self" class="c-link red">
+															Move  to XaaS
+															<svg role="img">
+																<title>Move  to XaaS</title>
+																<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="Move  to XaaS"></use>
+															</svg>
+														</a> 
+		         </div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-6">
+				<div class="row">
+					<div class="col-lg-6">
+						<div class="hv-normal-list">
+							<ul>
+								
+									<li> <a href="/en-us/everflex.html#overview" target="_self">Why EverFlex</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="/en-us/everflex.html#solutions" target="_self">Offerings</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="https://www.hitachivantara.com/en-us/newsroom-hvtv/blog-search-result.html?tags=113&tags-names=XaaS" target="_blank">EverFlex Blogs</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+							</ul>
+						</div>
+					</div>
+					
+					
+				</div>
+			</div>
+			
+				<div class="col-lg-6">
+					<div class="row">
+						
+							<div class="col-lg-6">
+								<div class="hv-featured-box"> <a href="/en-us/interactive/everflex-value-tool.html" target="_blank" class="c-anchor-block">VALUE SELECTOR</a>
+									<div class="featured-image">
+										<div class="pop">
+											
+											<picture>
+												<source type="image/webp" data-srcset="https://www.hitachivantara.com/content/dam/public/en_us/image/products/storage/everflex/value-estimator.webp"/>
+												<source type="image/jpg" data-srcset="https://www.hitachivantara.com/content/dam/public/en_us/image/products/storage/everflex/value-estimator.jpg"/> <img class="img-fluid lazyload" data-src="https://www.hitachivantara.com/content/dam/public/en_us/image/products/storage/everflex/value-estimator.jpg"/> </picture>
+										</div>
+									</div>
+									<div class="featured-content">
+										<div class="title">VALUE SELECTOR</div>
+										<div class="desc">
+											<p><p>A Complete Suite of as-a-Service Offerings for IT and the Business</p>
+</p>
+											<div class="c-link white"> GENERATE A RECOMMENDATION
+												<svg>
+													<title>GENERATE A RECOMMENDATION</title>
+													<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="GENERATE A RECOMMENDATION"></use>
+												</svg>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						
+							<div class="col-lg-6">
+								<div class="hv-featured-box"> <a href="/en-us/pdf/datasheet/consumption-based-acquisition-gains-significant-traction-esg-whitepaper.pdf" target="_blank" class="c-anchor-block">WHITEPAPER</a>
+									<div class="featured-image">
+										<div class="pop">
+											
+											<picture>
+												<source type="image/webp" data-srcset="https://www.hitachivantara.com/content/dam/public/en_us/image/products/storage/everflex/everflex-new-white-paper.webp"/>
+												<source type="image/jpg" data-srcset="https://www.hitachivantara.com/content/dam/public/en_us/image/products/storage/everflex/everflex-new-white-paper.jpg"/> <img class="img-fluid lazyload" data-src="https://www.hitachivantara.com/content/dam/public/en_us/image/products/storage/everflex/everflex-new-white-paper.jpg"/> </picture>
+										</div>
+									</div>
+									<div class="featured-content">
+										<div class="title">WHITEPAPER</div>
+										<div class="desc">
+											<p><p>Consumption-based Acquisition Gains Significant Traction</p>
+</p>
+											<div class="c-link white"> View Whitepaper
+												<svg>
+													<title>View Whitepaper</title>
+													<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="View Whitepaper"></use>
+												</svg>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						
+					</div>
+				</div>
+			
+		</div>
+		<div class="closeIpadMMenu d-md-none d-lg-block d-xl-none"> <span class="tab-close-icon"></span> Close </div>
+	</div>
+</div> 
+									</li>
+								
+								
+								
+								</li>
+								
+							
+								
+								
+								
+								
+								
+									<li class="hv-menu-item "> <a class="hv-menu-link " href="#">Insights</a> <span class="arrow-link d-lg-none"></span>
+										
+											
+
+
+
+	
+	 
+
+
+<div class="hv-megamenu">
+	<div class="container">
+		
+		<div class="row">
+			<div class="col-lg-9">
+				<div class="row">
+					<div class="col-lg-4">
+						<div class="hv-normal-list">
+							<ul>
+								
+									<li> <a href="/en-us/insights/digital-innovation.html" target="_self">Digital Innovation</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="/en-us/insights/social-innovation.html" target="_self">Social Innovation</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+							</ul>
+						</div>
+					</div>
+					<div class="col-lg-4">
+						<div class="hv-normal-list">
+							<ul>
+								
+									<li> <a href="/en-us/insights/digital-for-industry.html" target="_self">Digital for Industry</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="/en-us/insights/faq.html" target="_self">Frequently Asked Questions</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+							</ul>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+			
+		</div>
+		<div class="closeIpadMMenu d-md-none d-lg-block d-xl-none"> <span class="tab-close-icon"></span> Close </div>
+	</div>
+</div> 
+									</li>
+								
+								
+								
+								</li>
+								
+							
+								
+								
+								
+								
+								
+									<li class="hv-menu-item "> <a class="hv-menu-link " href="#">News</a> <span class="arrow-link d-lg-none"></span>
+										
+											
+
+
+	 
+	 
+
+
+	 
+
+<div class="hv-megamenu">
+	<div class="container">
+		<div class="megamenu-view-all top-head">
+			<div class="row">
+				<div class="col-md-12"> <a href="/en-us/newsroom-hvtv.html" target="_self" class="c-link red">
+															View News
+															<svg role="img">
+																<title>View News</title>
+																<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="View News"></use>
+															</svg>
+														</a> 
+		         </div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-6">
+				<div class="row">
+					<div class="col-lg-6">
+						<div class="hv-normal-list">
+							<ul>
+								
+									<li> <a href="/en-us/newsroom-hvtv/blog.html" target="_self">Blog</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="/en-us/newsroom-hvtv/in-the-press.html" target="_self">Press Releases</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="/en-us/newsroom-hvtv/in-the-news.html" target="_self">In the News</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+							</ul>
+						</div>
+					</div>
+					
+					
+				</div>
+			</div>
+			
+				<div class="col-lg-6">
+					<div class="row">
+						
+							<div class="col-lg-6">
+								<div class="hv-featured-box"> <a href="https://www.hitachivantara.com/blog/hitachi-vantara-recognized-as-top-15-sourcing-standout-by-isg/" target="_blank" class="c-anchor-block">Blog</a>
+									<div class="featured-image">
+										<div class="pop">
+											
+											<picture>
+												<source type="image/webp" data-srcset="https://www.hitachivantara.com/content/dam/public/en_us/image/mega-menu/newsroom-featured-mm-1.webp"/>
+												<source type="image/jpg" data-srcset="https://www.hitachivantara.com/content/dam/public/en_us/image/mega-menu/newsroom-featured-mm-1.jpg"/> <img class="img-fluid lazyload" data-src="https://www.hitachivantara.com/content/dam/public/en_us/image/mega-menu/newsroom-featured-mm-1.jpg"/> </picture>
+										</div>
+									</div>
+									<div class="featured-content">
+										<div class="title">Blog</div>
+										<div class="desc">
+											<p><p>Hitachi Vantara Recognized As Top 15 Sourcing Standout by ISG</p>
+</p>
+											<div class="c-link white"> Read The Blog
+												<svg>
+													<title>Read The Blog</title>
+													<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="Read The Blog"></use>
+												</svg>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						
+							<div class="col-lg-6">
+								<div class="hv-featured-box"> <a href="https://www.hitachivantara.com/blog/top-3-cloudops-priorities-for-2022-from-hitachi-vantara-and-aws/" target="_blank" class="c-anchor-block">Blog</a>
+									<div class="featured-image">
+										<div class="pop">
+											
+											<picture>
+												<source type="image/webp" data-srcset="https://www.hitachivantara.com/content/dam/public/en_us/image/mega-menu/newsroom-feature-mm-2.webp"/>
+												<source type="image/jpg" data-srcset="https://www.hitachivantara.com/content/dam/public/en_us/image/mega-menu/newsroom-feature-mm-2.jpg"/> <img class="img-fluid lazyload" data-src="https://www.hitachivantara.com/content/dam/public/en_us/image/mega-menu/newsroom-feature-mm-2.jpg"/> </picture>
+										</div>
+									</div>
+									<div class="featured-content">
+										<div class="title">Blog</div>
+										<div class="desc">
+											<p><p>Top 3 CloudOps Priorities for 2022</p>
+</p>
+											<div class="c-link white"> Read The Blog
+												<svg>
+													<title>Read The Blog</title>
+													<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="Read The Blog"></use>
+												</svg>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						
+					</div>
+				</div>
+			
+		</div>
+		<div class="closeIpadMMenu d-md-none d-lg-block d-xl-none"> <span class="tab-close-icon"></span> Close </div>
+	</div>
+</div> 
+									</li>
+								
+								
+								
+								</li>
+								
+							
+								
+								
+								
+								
+								
+									<li class="hv-menu-item "> <a class="hv-menu-link " href="#">Partners</a> <span class="arrow-link d-lg-none"></span>
+										
+											
+
+
+	 
+	 
+
+
+	 
+
+<div class="hv-megamenu">
+	<div class="container">
+		<div class="megamenu-view-all top-head">
+			<div class="row">
+				<div class="col-md-12"> <a href="/en-us/partners.html" target="_self" class="c-link red">
+															View Partners and Resources
+															<svg role="img">
+																<title>View Partners and Resources</title>
+																<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="View Partners and Resources"></use>
+															</svg>
+														</a> 
+		         </div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-6">
+				<div class="row">
+					<div class="col-lg-6">
+						<div class="hv-normal-list">
+							<ul>
+								
+									<li> <a href="/en-us/partners/partner-program.html" target="_self">Partner Program</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+												<li><a target="_self" href="/en-us/partners/partner-program/create-business-model.html">Create Business Model</a></li>
+											
+												<li><a target="_self" href="/en-us/partners/partner-program/manage-business-model.html">Manage Business Model</a></li>
+											
+												<li><a target="_self" href="/en-us/partners/partner-program/deliver-business-model.html">Deliver Business Model</a></li>
+											
+												<li><a target="_self" href="/en-us/partners/partner-program/resell-business-model.html">Resell Business Model</a></li>
+											
+										</ul>
+									</li>
+								
+							</ul>
+						</div>
+					</div>
+					<div class="col-lg-6">
+						<div class="hv-normal-list">
+							<ul>
+								
+									<li> <a href="https://www.hitachivantara.com/partnerlocator/en_us/partnerlocator.html" target="_blank">Find A Partner</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="https://hdscorp.force.com/hvpartner/s/partner-registration" target="_blank">Become a Partner</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="https://partner.hitachivantara.com/" target="_blank">Partner Portal</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+							</ul>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+			
+				<div class="col-lg-6">
+					<div class="row">
+						
+							<div class="col-lg-6">
+								<div class="hv-featured-box"> <a href="https://www.hitachivantara.com/partnerlocator/en_us/partnerlocator.html" target="_blank" class="c-anchor-block">Explore Our Partner Ecosystem</a>
+									<div class="featured-image">
+										<div class="pop">
+											
+											<picture>
+												<source type="image/webp" data-srcset="https://www.hitachivantara.com/content/dam/public/en_us/image/mega-menu/bg-red.webp"/>
+												<source type="image/jpg" data-srcset="https://www.hitachivantara.com/content/dam/public/en_us/image/mega-menu/bg-red.jpg"/> <img class="img-fluid lazyload" data-src="https://www.hitachivantara.com/content/dam/public/en_us/image/mega-menu/bg-red.jpg"/> </picture>
+										</div>
+									</div>
+									<div class="featured-content">
+										<div class="title">Explore Our Partner Ecosystem</div>
+										<div class="desc">
+											<p><p>Our searchable Partner Locator tool highlights partner competencies, business models, and location(s).</p>
+</p>
+											<div class="c-link white"> Find a Partner
+												<svg>
+													<title>Find a Partner</title>
+													<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#external" xlink:title="Find a Partner"></use>
+												</svg>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						
+							<div class="col-lg-6">
+								<div class="hv-featured-box"> <a href="https://partner.hitachivantara.com/" target="_blank" class="c-anchor-block">Award-Winning Partner Program</a>
+									<div class="featured-image">
+										<div class="pop">
+											
+											<picture>
+												<source type="image/webp" data-srcset="https://www.hitachivantara.com/content/dam/public/en_us/image/mega-menu/bg-grey.webp"/>
+												<source type="image/jpg" data-srcset="https://www.hitachivantara.com/content/dam/public/en_us/image/mega-menu/bg-grey.jpg"/> <img class="img-fluid lazyload" data-src="https://www.hitachivantara.com/content/dam/public/en_us/image/mega-menu/bg-grey.jpg"/> </picture>
+										</div>
+									</div>
+									<div class="featured-content">
+										<div class="title">Award-Winning Partner Program</div>
+										<div class="desc">
+											<p><p>Get partner information you need, including product news, big conversations, training and tools.</p>
+</p>
+											<div class="c-link white"> Partner Portal
+												<svg>
+													<title>Partner Portal</title>
+													<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#external" xlink:title="Partner Portal"></use>
+												</svg>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						
+					</div>
+				</div>
+			
+		</div>
+		<div class="closeIpadMMenu d-md-none d-lg-block d-xl-none"> <span class="tab-close-icon"></span> Close </div>
+	</div>
+</div> 
+									</li>
+								
+								
+								
+								</li>
+								
+							
+								
+								
+								
+								
+								
+									<li class="hv-menu-item "> <a class="hv-menu-link " href="#">Company</a> <span class="arrow-link d-lg-none"></span>
+										
+											
+
+
+	 
+	 
+
+
+	 
+
+<div class="hv-megamenu">
+	<div class="container">
+		<div class="megamenu-view-all top-head">
+			<div class="row">
+				<div class="col-md-12"> <a href="/en-us/company.html" target="_self" class="c-link red">
+															View Company
+															<svg role="img">
+																<title>View Company</title>
+																<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="View Company"></use>
+															</svg>
+														</a> 
+		         </div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-6">
+				<div class="row">
+					<div class="col-lg-6">
+						<div class="hv-normal-list">
+							<ul>
+								
+									<li> <a href="/en-us/company/social-innovation.html" target="_self">Social Innovation</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="/en-us/company/leadership.html" target="_self">Leadership</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="/en-us/company/careers.html" target="_self">Careers</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="/en-us/company/customer-stories.html" target="_self">Customer Stories</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="/en-us/company/events-webinar.html" target="_self">Events and Webinars</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+							</ul>
+						</div>
+					</div>
+					<div class="col-lg-6">
+						<div class="hv-normal-list">
+							<ul>
+								
+									<li> <a href="/en-us/company/data-management-done-differently.html" target="_self">Data Management Done Differently</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="/en-us/company/labs.html" target="_self">Hitachi Vantara Lab</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="/en-us/company/corporate-social-responsibility.html" target="_self">Corporate Social Responsibility</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="/en-us/company/contact.html" target="_self">Contact Us</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+									<li> <a href="/en-us/company/legal.html" target="_self">Legal &amp; Compliance</a> <span class="plus-link d-lg-none"></span>
+										<ul>
+											
+										</ul>
+									</li>
+								
+							</ul>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+			
+				<div class="col-lg-6">
+					<div class="row">
+						
+							<div class="col-lg-6">
+								<div class="hv-featured-box"> <a href="/en-us/company/customer-stories/disney-world-disneyland-resort.html" target="_blank" class="c-anchor-block">MAGICAL EXPERIENCES DELIVERED</a>
+									<div class="featured-image">
+										<div class="pop">
+											
+											<picture>
+												<source type="image/webp" data-srcset="https://www.hitachivantara.com/content/dam/public/en_us/image/mega-menu/company-featured-1.webp"/>
+												<source type="image/jpg" data-srcset="https://www.hitachivantara.com/content/dam/public/en_us/image/mega-menu/company-featured-1.jpg"/> <img class="img-fluid lazyload" data-src="https://www.hitachivantara.com/content/dam/public/en_us/image/mega-menu/company-featured-1.jpg"/> </picture>
+										</div>
+									</div>
+									<div class="featured-content">
+										<div class="title">MAGICAL EXPERIENCES DELIVERED</div>
+										<div class="desc">
+											<p><p>Learn how Hitachi Vantara and Disney Parks turn data into even more magic.</p>
+</p>
+											<div class="c-link white"> See Alliance
+												<svg>
+													<title>See Alliance</title>
+													<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="See Alliance"></use>
+												</svg>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						
+							<div class="col-lg-6">
+								<div class="hv-featured-box"> <a href="/en-us/company/customer-stories/optimise-prime.html" target="_blank" class="c-anchor-block">WHAT’S NOW TO WHAT’S NEXT</a>
+									<div class="featured-image">
+										<div class="pop">
+											
+											<picture>
+												<source type="image/webp" data-srcset="https://www.hitachivantara.com/content/dam/public/en_us/image/mega-menu/company-featured-2.webp"/>
+												<source type="image/jpg" data-srcset="https://www.hitachivantara.com/content/dam/public/en_us/image/mega-menu/company-featured-2.jpg"/> <img class="img-fluid lazyload" data-src="https://www.hitachivantara.com/content/dam/public/en_us/image/mega-menu/company-featured-2.jpg"/> </picture>
+										</div>
+									</div>
+									<div class="featured-content">
+										<div class="title">WHAT’S NOW TO WHAT’S NEXT</div>
+										<div class="desc">
+											<p><p>Know how to build next-gen charging solutions for EVs? We do.</p>
+</p>
+											<div class="c-link white"> See The Future
+												<svg>
+													<title>See The Future</title>
+													<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="See The Future"></use>
+												</svg>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						
+					</div>
+				</div>
+			
+		</div>
+		<div class="closeIpadMMenu d-md-none d-lg-block d-xl-none"> <span class="tab-close-icon"></span> Close </div>
+	</div>
+</div> 
+									</li>
+								
+								
+								
+								</li>
+								
+							
+								
+								
+								
+									<li class="hv-menu-item contact-main-nav"> <a class="hv-menu-link">Contact Us</a> <span class="arrow-link d-lg-none"></span>
+										<div class="hv-megamenu contact-main-box">
+
+											<ul>
+											
+												
+												
+													
+													
+													
+														<li>
+															
+															
+																
+																 
+															<a href="tel://+17207384141" class="call" onclick="return phoneDialNumber;">
+																<div class="contact-icon">
+																	<svg>
+																		<title>Call Us at 1-720-738-4141</title>
+																		<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite-new.svg#sticky-call-us" xlink:title="Call Us at 1-720-738-4141"></use>
+																	</svg>
+																</div>
+																<div class="contact-text engind">Call Us at 1-720-738-4141</div>
+															</a>
+														</li>
+													
+													
+													
+												
+													
+													
+													
+													
+														<li>
+															
+																
+																
+																
+																
+																
+																
+															
+																 
+																
+																
+																
+																
+															
+															
+																
+															<a data-formtitle="LET US HELP YOU FIND THE BEST SOLUTIONS" href="https://pages.hitachivantara.com/contact-sales-ph.html" rel="iframemodal" target="_self">
+																<div class="contact-icon">
+																	<svg>
+																		<title>Contact Sales</title>
+																		<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite-new.svg#sticky-email" xlink:title="Contact Sales"></use>
+																	</svg>
+																</div>
+																<div class="contact-text engind">Contact Sales</div>
+															</a>
+														</li>
+													
+													
+												
+													
+													
+													
+													
+													
+														<li>
+															<a href="https://support.hitachivantara.com" target="_blank">
+																<div class="contact-icon">
+																	<svg>
+																		<title>Get Support</title>
+																		<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite-new.svg#get-support-icon" xlink:title="Get Support"></use>
+																	</svg>
+																</div>
+																<div class="contact-text engind">Get Support</div>
+															</a>
+															
+															
+														</li>
+													
+												
+													
+													
+													
+													
+													
+														<li>
+															<a href="https://www.hitachivantara.com/partnerlocator/en_us/partnerlocator.html" target="_blank">
+																<div class="contact-icon">
+																	<svg>
+																		<title>Find a Partner</title>
+																		<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite-new.svg#sticky-partner" xlink:title="Find a Partner"></use>
+																	</svg>
+																</div>
+																<div class="contact-text engind">Find a Partner</div>
+															</a>
+															
+															
+														</li>
+													
+												
+													
+													
+													
+													
+													
+														<li>
+															<a href="https://secure.ethicspoint.com/domain/media/en/gui/58816/index.html" target="_blank">
+																<div class="contact-icon">
+																	<svg>
+																		<title>Report Misconduct</title>
+																		<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite-new.svg#report-misconduct" xlink:title="Report Misconduct"></use>
+																	</svg>
+																</div>
+																<div class="contact-text engind">Report Misconduct</div>
+															</a>
+															
+															
+														</li>
+													
+												
+											</ul>
+										</div>
+								
+								</li>
+								
+							
+							
+						</ul>
+						<div class="desktop-nav-close-btn">
+							<div class="hv-close ml-auto"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</nav>
+		<div class="hv-mobile-nav">
+			<div class="mn-top">
+				
+				
+				<div class="search">
+						<label class="d-none">Search</label> 
+						<span class="search-icon">
+							<svg role="img" aria-labelledby="search-icon-a" class="icon-search">
+								<title id="search-icon-a">SEARCH</title>
+								<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite-new.svg#search-icon" xlink:title="SEARCH"></use>
+							</svg>
+						</span>
+						<input title="Search" type="hidden" id="searchloc"/>
+						<input title="Search" type="text" placeholder="Search" class="gsaSearchBox" data-href="/en-us/search-results.html"/>
+						<div class="search_suggestion">
+							<div class="suggest_btm">
+								<div class="suggestion clearfix"> 
+									<div class="hv-close search_close"></div>
+								</div>
+								<div class="suggest_content">
+									<div class="search-mb-list"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				
+				<div class="mobile-nav-close-btn">
+					<div class="hv-close ml-auto"></div>
+				</div>
+			</div>
+			<div class="mn-middle"></div>
+			<div class="mn-bottom"> </div>
+		</div>
+		<div class="drawer-nav-close hv-mobile-nav-mask"></div>
+		<div class="geo-loc-overlay">
+			<div class="container">
+				<div class="row">
+					<div class="geo-close-btn">
+						<div class="hv-close ml-auto"></div>
+					</div>
+					  
+                     
+                    <div class="col-lg-4">
+                        <div class="region">
+                            <div class="title">
+							
+                               AMERICAS
+                            </div>
+                            <div class="clist">
+                                <ul>
+								 
+                                    <li>
+								
+                    <a href="/es-latam/home.html" target="_blank">LATAM<span class="d-none">LATAM</span>
+                                        </a>
+                                    </li>
+									
+                                    <li>
+								
+                    <a href="/pt-br/home.html" target="_blank">Brasil <em>(Brazil)</em><span class="d-none">Brasil</span>
+                                        </a>
+                                    </li>
+									
+                                    <li>
+								
+                    <a href="/en-us/home.html" target="_blank">United States<span class="d-none">United States</span>
+                                        </a>
+                                    </li>
+									
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                 
+                    <div class="col-lg-4">
+                        <div class="region">
+                            <div class="title">
+							
+                               ASIA PACIFIC
+                            </div>
+                            <div class="clist">
+                                <ul>
+								 
+                                    <li>
+								
+                    <a href="/en-anz/home.html" target="_blank">Australia/New Zealand<span class="d-none">Australia/New Zealand</span>
+                                        </a>
+                                    </li>
+									
+                                    <li>
+								
+                    <a href="/zh-cn/home.html" target="_blank">中国<em> (China)</em><span class="d-none">中国</span>
+                                        </a>
+                                    </li>
+									
+                                    <li>
+								
+                    <a href="/en-hk/home.html" target="_blank">Hong Kong<span class="d-none">Hong Kong</span>
+                                        </a>
+                                    </li>
+									
+                                    <li>
+								
+                    <a href="/en-in/home.html" target="_blank">India<span class="d-none">India</span>
+                                        </a>
+                                    </li>
+									
+                                    <li>
+								
+                    <a href="https://www.hitachi.co.jp/products/it/" target="_blank">日本 (Japan)<span class="d-none">日本</span>
+                                        </a>
+                                    </li>
+									
+                                    <li>
+								
+                    <a href="/ko-kr/home.html" target="_blank">한국 <em>(Korea)</em><span class="d-none">한국</span>
+                                        </a>
+                                    </li>
+									
+                                    <li>
+								
+                    <a href="/zh-tw/home.html" target="_blank">台湾 <em>(Taiwan)</em><span class="d-none">台湾</span>
+                                        </a>
+                                    </li>
+									
+                                    <li>
+								
+                    <a href="/en-asean/home.html" target="_blank">ASEAN<span class="d-none">ASEAN</span>
+                                        </a>
+                                    </li>
+									
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                 
+                    <div class="col-lg-4">
+                        <div class="region">
+                            <div class="title">
+							
+                               EUROPE, MIDDLE EAST AND AFRICA
+                            </div>
+                            <div class="clist">
+                                <ul>
+								 
+                                    <li>
+								
+                    <a href="/de-de/home.html" target="_blank">Deutschland <em>(Germany)</em><span class="d-none">Deutschland</span>
+                                        </a>
+                                    </li>
+									
+                                    <li>
+								
+                    <a href="/ru-ru/home.html" target="_blank">Россия <em>(Russia)</em><span class="d-none">Россия</span>
+                                        </a>
+                                    </li>
+									
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                 
+               
+				</div>
+			</div>
+		</div>
+	</div>
+		
+</header>
+
+
+	
+	 
+
+		 <div class="breadcrumb-container" data-component-title="breadcrumb" data-component-id="hv-breadcrumb">
+
+            <div class="breadcrumb container black" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+               <ul>
+                  
+
+				 <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+
+				 
+				 
+				 
+				 
+
+					
+                     <a itemprop="item" class="breadcrumblink" href="/en-us/home.html" itemtitle="Home">
+                     <span itemprop="name" data-mkt-title="Home"> Home</span></a>
+                     <meta itemprop='position' content='1'/>
+
+				 
+			     
+
+				 </li>
+
+				 &nbsp;/&nbsp; 
+
+        
+
+				 <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+
+				 
+				 
+				 
+				 
+
+					
+                     <a itemprop="item" class="breadcrumblink" itemtitle="Products">
+                     <span itemprop="name" data-mkt-title="Products"> Products</span></a>
+                     <meta itemprop='position' content='2'/>
+
+				 
+			     
+
+				 </li>
+
+				 &nbsp;/&nbsp; 
+
+        
+
+				 <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+
+				 
+			     				
+           		     <span itemprop="name" data-mkt-title="Data Management and Analytics"> Data Management and Analytics</span>
+                      <meta itemprop='position' content='3'/>
+                
+
+				 </li>
+
+				  
+
+        
+			   </ul>
+            </div>
+         </div>
+
+
+
+</div>
+
+    
+</div>
+    </div>
+
+    
+</div>
+
+    
+</div>
+<div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+
+  
+<div class="cmp-experiencefragment cmp-experiencefragment--stickywhitenav">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="list aem-GridColumn aem-GridColumn--default--12">
+
+
+    
+
+</div>
+<div class="stickywhitenav aem-GridColumn aem-GridColumn--default--12">
+
+
+<div id="lc-code" class="d-none">en_us</div></div>
+
+    
+</div></div>
+
+    
+</div>
+<div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="heropanel aem-GridColumn aem-GridColumn--default--12"><!-- Hero Common Banner -->
+
+
+    <div class="hv-hero-comm-banner webpImg    p-tb-60  " data-component-title="Hero panel" data-component-id="hv-hero-comm-banner" data-webp-mobile="/content/dam/public/en_us/image/products/data-management-analytics/hero-mobile.webp" data-webp-desktop="/content/dam/public/en_us/image/products/data-management-analytics/hero-banner.webp" data-jpg-mobile="/content/dam/public/en_us/image/products/data-management-analytics/hero-mobile.jpg" data-jpg-desktop="/content/dam/public/en_us/image/products/data-management-analytics/hero-banner.jpg" style="background-color:white">
+        <div class="container">
+            <div class="row align-items-center">	
+				
+                <div class="col-lg-6">
+                    <div class="hero-banner-content">
+					    <div class="sub-head"></div>
+					    <h1 class="heading1">Data Management and Analytics</h1>
+						
+                        <p>Accelerate innovation and build your DataOps practice with data management products for analytics, AI and data integration.</p> 
+						
+				
+					<a href="https://www.hitachivantara.com/en-us/products/data-management-analytics/lumada-intelligent-dataops.html" target="_self" class="c-btn white d-lg-inline-block d-none">
+				
+				DISCOVER LUMADA INTELLIGENT DATAOPS <svg role="img" aria-labelledby="link-arrow">
+					<title id="link-arrow"></title>
+					<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="DISCOVER LUMADA INTELLIGENT DATAOPS"></use>
+				   </svg>
+				 </a>
+
+				 
+					
+				 
+                
+                
+              </a>
+                    </div>
+                </div>
+
+
+			<div class="col-lg-6">
+
+                
+
+				 <div class="icon-wrapper">
+                    <a href="javascript:void(0)" class="icon wa-play-icon-btn" target="_self" onclick="hv.bcoveVideo.overlayVideo(6090074867001)">
+                        <div class="hv-assets-icon">
+                            <svg role="img">
+                                <title></title>
+                                <use xlink:href="/content/dam/public/en_us/image/svg/data-management-analytics.svg#es-video-tile" xlink:title=""></use>
+                            </svg>
+                        </div>
+                    </a>
+				  </div>
+                  <div class="mobile-cta d-lg-none d-block mt-5"> 
+					
+					
+						<a href="https://www.hitachivantara.com/en-us/products/data-management-analytics/lumada-intelligent-dataops.html" target="_self" class="c-btn white">
+					
+						DISCOVER LUMADA INTELLIGENT DATAOPS 
+							<svg role="img" aria-labelledby="link-arrow">
+								<title id="link-arrow"></title>
+								<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="DISCOVER LUMADA INTELLIGENT DATAOPS"></use>
+							</svg>
+					    </a>
+
+					
+						
+					 
+						
+							
+						  </a>
+                    </div>
+                </div>
+               
+        <!-- Arrow Animation -->
+        
+   </div>
+  </div>
+</div>
+    <!-- Hero Common Banner End--></div>
+<div class="benefitstitlebullet parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+<div class="hv-benefit-tdesc-bullet p-tb-60  " data-component-title="Business benefits bullet points" data-component-id="hv-benefit-tdesc-bullet" style="background-color:white">	
+	<div class="container">
+		<div class="row">
+		<div class="col">
+			  <h2 class="heading2  center">Improve Data Operations, Everywhere</h2>
+			 <p class="text-md-center">Simplify your data operations and democratize information access for all your enterprise stakeholders with policy-based automation and metadata-driven data management.</p>
+		</div>
+		</div>
+
+
+		<div class="row align-items-stretch justify-content-center">
+		
+		<div class="col-md-4">
+		 
+			<div class="box">
+         
+			<h3> Data Transformation</h3>
+			<ul>
+				<li>Unlock your data value with an intelligent multicloud data foundation</li>
+			</ul>
+			</div>
+		</div>
+		
+		<div class="col-md-4">
+		 
+			<div class="box">
+         
+			<h3> Data Agility</h3>
+			<ul>
+				<li>Orchestrate, blend, prepare and process any data anywhere</li>
+			</ul>
+			</div>
+		</div>
+		
+		<div class="col-md-4">
+		 
+			<div class="box">
+         
+			<h3> Data Discovery</h3>
+			<ul>
+				<li>Improve business insight with data discovery and exploration</li>
+			</ul>
+			</div>
+		</div>
+		
+	
+		</div>
+	</div>
+</div></div>
+<div class="subcategoriespanelv2 aem-GridColumn aem-GridColumn--default--12">
+
+
+<section class="hv-sub-categories-opt2 p-tb-60  " data-component-title="Sub categories panel Version 2" data-component-id="hv-sub-categories-opt2">
+    <div class="container">
+      <h2 class="heading2 center ">See Our Data Management &amp; Analytics Portfolio</h2>
+      <p class="text-md-center">Hitachi Vantara provides a comprehensive portfolio of products to address the most demanding data management and analytics needs.</p>
+  </div>
+  
+  
+  
+  
+  <div class="categories ">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="category-detail">
+            <svg class="icon">
+              <title>Lumada DataOps Suite</title>
+              <use xlink:href="/content/dam/public/en_us/image/svg/data-management-analytics.svg#services-pentaho" xlink:title="Lumada DataOps Suite"></use>
+          </svg>
+          <h3>Lumada DataOps Suite</h3>
+          <p>A cost-effective, intelligent, multicloud data foundation.</p>
+          
+          </div>
+        </div>
+      </div>
+      <div class="row sub-cat-listing">
+  
+		 
+			 
+				<div class="col-lg-4 col-md-6">
+				  <a href="/en-us/products/data-management-analytics/lumada-data-integration.html" class="sub-cat-link">
+					Lumada Data Integration
+				  </a>
+				</div>
+			 
+				<div class="col-lg-4 col-md-6">
+				  <a href="/en-us/products/data-management-analytics/lumada-data-catalog.html" class="sub-cat-link">
+					Lumada Data Catalog
+				  </a>
+				</div>
+			 
+				<div class="col-lg-4 col-md-6">
+				  <a href="/en-us/products/data-management-analytics/lumada-analytics.html" class="sub-cat-link">
+					Lumada Analytics
+				  </a>
+				</div>
+			 
+				<div class="col-lg-4 col-md-6">
+				  <a href="/en-us/products/data-management-analytics/lumada-edge-intelligence.html" class="sub-cat-link">
+					Lumada Edge Intelligence
+				  </a>
+				</div>
+			 
+				<div class="col-lg-4 col-md-6">
+				  <a href="/en-us/products/data-management-analytics/lumada-data-optimizer-for-hadoop.html" class="sub-cat-link">
+					Lumada Data Optimizer for Hadoop
+				  </a>
+				</div>
+			 
+				<div class="col-lg-4 col-md-6">
+				  <a href="/en-us/products/data-management-analytics/pentaho.html" class="sub-cat-link">
+					Pentaho Enterprise Edition
+				  </a>
+				</div>
+			 
+				<div class="col-lg-4 col-md-6">
+				  <a href="/en-us/products/data-management-analytics/lumada-dataops-suite.html" class="sub-cat-link">
+					Lumada DataOps Suite
+				  </a>
+				</div>
+			 
+		 
+		  
+		  
+		  
+			 
+				
+
+
+
+
+
+			 
+		  
+
+      </div>
+    </div>
+  </div>
+  
+  
+  </section></div>
+<div class="keyassetpanel aem-GridColumn aem-GridColumn--default--12">
+
+
+ <div class="hv-key-asset-multiple py-5 grey-bg p-tb-60 p-top-0 " data-component-title="Multi Key Asset Panel" data-component-id="hv-key-asset-multiple" style="background-color: ;">
+		<div class="container">
+		  <h2 class="heading2 center ">Key Assets</h2>
+        		  
+		     <div class="key-asset-container">
+                <div class="row">
+                    <div class="col-md-3">
+                        <!-- Nav tabs -->
+                        <ul class="nav nav-tabs">
+						
+                            <li>    <a href="javascript:void(0)" data-tab="tab-1" class="nav-link active">Whitepaper</a><span class="plus-icon"></span>
+						</li>
+					     
+                            <li>    <a href="javascript:void(0)" data-tab="tab-2" class="nav-link ">Analyst Report</a>
+						</li>
+					     
+                            
+                        </ul>
+                    </div>
+                    <div class="col-md-9 ">
+                        <!-- Tab panes -->
+						
+                        <div class="tab-content info active" data-id="tab-1">
+                            <div class="row wa-position-listing">
+							
+                             
+							<div class="col-md-4">
+								<div class="key-card">
+									<div class="key-card-img">
+									
+									
+									
+									<a href="/en-us/pdf/white-paper/is-dataops-your-windfall-of-value-whitepaper.pdf" target="_blank" class="c-anchor-block wa-cta-link-1"></a>
+									
+										
+										
+										<picture>								
+											<source type="image/webp" data-srcset="/content/dam/public/en_us/image/products/data-management-analytics/key-asset-1-card-1.webp"/>
+                                            <source type="image/jpg" data-srcset="/content/dam/public/en_us/image/products/data-management-analytics/key-asset-1-card-1.jpg"/>
+											<img class="img-fluid lazyload" data-src="/content/dam/public/en_us/image/products/data-management-analytics/key-asset-1-card-1.jpg"/> 
+										</picture>
+										
+									</div>
+									<h3 class="heading3">
+										Bringing DataOps to Life
+									</h3>
+									<p>
+										See how DataOps will change data management and drive business innovation with agile data pipelines, governance and instrumentation.
+									</p>
+				
+                                   
+								   
+				<a href="/en-us/pdf/white-paper/is-dataops-your-windfall-of-value-whitepaper.pdf" target="_blank" class="c-link red mt-3 wa-card-cta-links wa-cta-link-2">
+					READ More
+					<svg role="img" aria-labelledby="link-arrow">
+						<title id="link-arrow">READ More</title>
+						<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="READ More"></use>
+					</svg>
+				</a>
+
+									
+								</div>
+							</div>
+						
+							<div class="col-md-4">
+								<div class="key-card">
+									<div class="key-card-img">
+									
+									
+									
+									<a href="/en-us/pdf/white-paper/how-dataops-transforms-data-supply-chain-whitepaper.pdf" target="_blank" class="c-anchor-block wa-cta-link-1 isGatedLock"></a>
+									
+										
+										
+										<picture>								
+											<source type="image/webp" data-srcset="/content/dam/public/en_us/image/products/data-management-analytics/key-asset-1-card-2.webp"/>
+                                            <source type="image/jpg" data-srcset="/content/dam/public/en_us/image/products/data-management-analytics/key-asset-1-card-2.jpg"/>
+											<img class="img-fluid lazyload" data-src="/content/dam/public/en_us/image/products/data-management-analytics/key-asset-1-card-2.jpg"/> 
+										</picture>
+										
+									</div>
+									<h3 class="heading3">
+										How DataOps Transforms the Data Supply Chain
+									</h3>
+									<p>
+										Learn about best practices and for implementing the DataOps supply chain, including technologies and architectures, and redefined roles.
+									</p>
+				
+                                   
+								   
+				<a href="/en-us/pdf/white-paper/how-dataops-transforms-data-supply-chain-whitepaper.pdf" target="_blank" class="c-link red mt-3 wa-card-cta-links wa-cta-link-2 isGatedLock">
+					READ MORE
+					<svg role="img" aria-labelledby="link-arrow">
+						<title id="link-arrow">READ MORE</title>
+						<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="READ MORE"></use>
+					</svg>
+				</a>
+
+									
+								</div>
+							</div>
+						
+							<div class="col-md-4">
+								<div class="key-card">
+									<div class="key-card-img">
+									
+									
+									
+									<a href="/en-us/pdf/white-paper/cultural-impact-of-dataops-whitepaper.pdf" target="_blank" class="c-anchor-block wa-cta-link-1"></a>
+									
+										
+										
+										<picture>								
+											<source type="image/webp" data-srcset="/content/dam/public/en_us/image/products/data-management-analytics/key-asset-1-card-3.webp"/>
+                                            <source type="image/jpg" data-srcset="/content/dam/public/en_us/image/products/data-management-analytics/key-asset-1-card-3.jpg"/>
+											<img class="img-fluid lazyload" data-src="/content/dam/public/en_us/image/products/data-management-analytics/key-asset-1-card-3.jpg"/> 
+										</picture>
+										
+									</div>
+									<h3 class="heading3">
+										The Impact of DataOps
+									</h3>
+									<p>
+										Learn about the cultural importance of collaboration, design thinking and silo paranoia, to ensure your DataOps success.
+									</p>
+				
+                                   
+								   
+				<a href="/en-us/pdf/white-paper/cultural-impact-of-dataops-whitepaper.pdf" target="_blank" class="c-link red mt-3 wa-card-cta-links wa-cta-link-2">
+					READ MORE
+					<svg role="img" aria-labelledby="link-arrow">
+						<title id="link-arrow">READ MORE</title>
+						<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="READ MORE"></use>
+					</svg>
+				</a>
+
+									
+								</div>
+							</div>
+						
+                            </div>
+                        </div>
+						
+                        <div class="tab-content info " data-id="tab-2">
+                            <div class="row wa-position-listing">
+							
+                             
+							<div class="col-md-4">
+								<div class="key-card">
+									<div class="key-card-img">
+									
+									
+									
+									<a href="/en-us/pdf/analyst-content/dataops-unlocks-value-of-data-451-research.pdf" target="_blank" class="c-anchor-block wa-cta-link-1 isGatedLock"></a>
+									
+										
+										
+										<picture>								
+											<source type="image/webp" data-srcset="/content/dam/public/en_us/image/products/data-management-analytics/key-asset-2-card-1.webp"/>
+                                            <source type="image/jpg" data-srcset="/content/dam/public/en_us/image/products/data-management-analytics/key-asset-2-card-1.jpg"/>
+											<img class="img-fluid lazyload" data-src="/content/dam/public/en_us/image/products/data-management-analytics/key-asset-2-card-1.jpg"/> 
+										</picture>
+										
+									</div>
+									<h3 class="heading3">
+										451 Research: DataOps Unlocks Data Value
+									</h3>
+									<p>
+										Primary research survey illustrates growing interest in the concepts related to DataOps to deliver more agile and automated data management.
+									</p>
+				
+                                   
+								   
+				<a href="/en-us/pdf/analyst-content/dataops-unlocks-value-of-data-451-research.pdf" target="_blank" class="c-link red mt-3 wa-card-cta-links wa-cta-link-2 isGatedLock">
+					READ More
+					<svg role="img" aria-labelledby="link-arrow">
+						<title id="link-arrow">READ More</title>
+						<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="READ More"></use>
+					</svg>
+				</a>
+
+									
+								</div>
+							</div>
+						
+							<div class="col-md-4">
+								<div class="key-card">
+									<div class="key-card-img">
+									
+									
+									
+									<a href="/en-us/pdf/analyst-content/achieving-intelligent-data-operations-idc-analyst-connection.pdf" target="_blank" class="c-anchor-block wa-cta-link-1 isGatedLock"></a>
+									
+										
+										
+										<picture>								
+											<source type="image/webp" data-srcset="/content/dam/public/en_us/image/products/data-management-analytics/key-asset-2-card-2.webp"/>
+                                            <source type="image/jpg" data-srcset="/content/dam/public/en_us/image/products/data-management-analytics/key-asset-2-card-2.jpg"/>
+											<img class="img-fluid lazyload" data-src="/content/dam/public/en_us/image/products/data-management-analytics/key-asset-2-card-2.jpg"/> 
+										</picture>
+										
+									</div>
+									<h3 class="heading3">
+										IDC Analyst: How DataOps Helps Unlock Data Value
+									</h3>
+									<p>
+										Learn how DataOps can power AI-enabled applications by automating and orchestrating data pipelines for data discovery, access, and delivery.
+									</p>
+				
+                                   
+								   
+				<a href="/en-us/pdf/analyst-content/achieving-intelligent-data-operations-idc-analyst-connection.pdf" target="_blank" class="c-link red mt-3 wa-card-cta-links wa-cta-link-2 isGatedLock">
+					READ MORE
+					<svg role="img" aria-labelledby="link-arrow">
+						<title id="link-arrow">READ MORE</title>
+						<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="READ MORE"></use>
+					</svg>
+				</a>
+
+									
+								</div>
+							</div>
+						
+							<div class="col-md-4">
+								<div class="key-card">
+									<div class="key-card-img">
+									
+									
+									
+									<a href="/en-us/pdf/analyst-content/agile-data-management-as-basis-for-data-driven-enterprise.pdf" target="_blank" class="c-anchor-block wa-cta-link-1 isGatedLock"></a>
+									
+										
+										
+										<picture>								
+											<source type="image/webp" data-srcset="/content/dam/public/en_us/image/products/data-management-analytics/key-asset-2-card-3.webp"/>
+                                            <source type="image/jpg" data-srcset="/content/dam/public/en_us/image/products/data-management-analytics/key-asset-2-card-3.jpg"/>
+											<img class="img-fluid lazyload" data-src="/content/dam/public/en_us/image/products/data-management-analytics/key-asset-2-card-3.jpg"/> 
+										</picture>
+										
+									</div>
+									<h3 class="heading3">
+										451 Research: Data-Driven Operational Efficiency
+									</h3>
+									<p>
+										Being data-driven requires more responsiveness to data and adaptability to changes in data sources and formats, and in app development.
+									</p>
+				
+                                   
+								   
+				<a href="/en-us/pdf/analyst-content/agile-data-management-as-basis-for-data-driven-enterprise.pdf" target="_blank" class="c-link red mt-3 wa-card-cta-links wa-cta-link-2 isGatedLock">
+					READ MORE
+					<svg role="img" aria-labelledby="link-arrow">
+						<title id="link-arrow">READ MORE</title>
+						<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="READ MORE"></use>
+					</svg>
+				</a>
+
+									
+								</div>
+							</div>
+						
+                            </div>
+                        </div>
+						
+                      
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Multiple Key Asset Panel End --></div>
+<div class="singlecta aem-GridColumn aem-GridColumn--default--12">
+
+
+
+<section class="hv-single-cta-banner  light-bg  p-tb-60   webpImg lazyload" data-component-title="Single CTA - Title description with background image" data-component-id="hv-single-cta-banner" data-bgset="/content/dam/public/en_us/image/common/footer-texture.png" data-webp-mobile="/content/dam/public/en_us/image/common/footer-texture.webp" data-webp-desktop="/content/dam/public/en_us/image/common/footer-texture.webp" data-jpg-mobile="/content/dam/public/en_us/image/common/footer-texture.png" data-jpg-desktop="/content/dam/public/en_us/image/common/footer-texture.png" style="background-color:">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h2 class="heading2 center ">How About a Demo?</h2>
+                <h4 class="sub-heading">LUMADA DATAOPS SUITE - DEMO</h4>
+                <p>See the power of the Lumada DataOps Suite in action with a customized demo for your own, unique use case. Get access to the whole suite, including tools for Data Catalog, Integration, Analytics, Edge Intelligence and Hadoop Opmization, by contacting us below.</p>
+				
+			 	
+                    
+					 
+                    
+                        <a href="https://www.hitachivantara.com/en-us/products/data-management-analytics/pentaho/request-demo.html" class="c-btn red" target="_self">
+                    
+                    
+               REQUEST YOUR PERSONALIZED DEMO
+                <svg>
+                   <title>REQUEST YOUR PERSONALIZED DEMO</title>
+                   <use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="REQUEST YOUR PERSONALIZED DEMO"></use>
+                </svg>
+             </a>
+			 
+            </div>
+        </div>
+    </div>
+</section></div>
+<div class="accordionpanel aem-GridColumn aem-GridColumn--default--12">
+
+
+<section class="hv-accordion-wrapper p-tb-60   webpImg lazyload" data-component-title="Accordion Panel" data-component-id="hv-accordion" data-bgset="/content/dam/public/en_us/image/common/footer-texture.png" data-webp-mobile="/content/dam/public/en_us/image/common/footer-texture.webp" data-webp-desktop="/content/dam/public/en_us/image/common/footer-texture.webp" data-jpg-mobile="/content/dam/public/en_us/image/common/footer-texture.png" data-jpg-desktop="/content/dam/public/en_us/image/common/footer-texture.png" style="background-color:white">
+	<div class="container">
+		<div class="row clearfix">
+			<div class="col-md-12">
+			
+				<h2 class="heading2 center ">Related Solutions and Services</h2>
+				 		  
+		   
+			</div>
+		</div>
+	</div>
+	<div class="hv-pic-accordion wa-position-listing">
+	
+		<div class="picture-accordion webpImg lazyload" data-bgset="/content/dam/public/en_us/image/products/data-management-analytics/accordin-1.jpg" data-webp-mobile="/content/dam/public/en_us/image/products/data-management-analytics/accordin-1.webp" data-webp-desktop="/content/dam/public/en_us/image/products/data-management-analytics/accordin-1.webp" data-jpg-mobile="/content/dam/public/en_us/image/products/data-management-analytics/accordin-1.jpg" data-jpg-desktop="/content/dam/public/en_us/image/products/data-management-analytics/accordin-1.jpg">
+			<div class="picture-accordion-txtWrap">
+
+				<h3>Data Modernization for AI</h3>
+
+
+				<p>Discover the power of your data by taking the first step: modernize your data environment with a new sense of urgency.</p>
+			 
+			 
+			<a href="/en-us/solutions/modernize-digital-core/data-modernization/data-modernization-for-ai.html" target="_self" class="c-link white wa-card-cta-links">
+					LEARN MORE
+					<svg role="img">
+						<title>LEARN MORE</title>
+						<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="LEARN MORE"></use>
+					</svg>
+				</a>
+			</div>
+		</div>
+		
+		<div class="picture-accordion webpImg lazyload" data-bgset="/content/dam/public/en_us/image/products/data-management-analytics/accordin-2.jpg" data-webp-mobile="/content/dam/public/en_us/image/products/data-management-analytics/accordin-2.webp" data-webp-desktop="/content/dam/public/en_us/image/products/data-management-analytics/accordin-2.webp" data-jpg-mobile="/content/dam/public/en_us/image/products/data-management-analytics/accordin-2.jpg" data-jpg-desktop="/content/dam/public/en_us/image/products/data-management-analytics/accordin-2.jpg">
+			<div class="picture-accordion-txtWrap">
+
+				<h3>Data Governance</h3>
+
+
+				<p>Create a trusted data ecosystem to support every business decision with new technologies and deep governance expertise.</p>
+			 
+			 
+			<a href="/en-us/solutions/modernize-digital-core/data-modernization/data-governance.html" target="_self" class="c-link white wa-card-cta-links">
+					LEARN MORE
+					<svg role="img">
+						<title>LEARN MORE</title>
+						<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="LEARN MORE"></use>
+					</svg>
+				</a>
+			</div>
+		</div>
+		
+		<div class="picture-accordion webpImg lazyload" data-bgset="/content/dam/public/en_us/image/products/data-management-analytics/accordin-3.jpg" data-webp-mobile="/content/dam/public/en_us/image/products/data-management-analytics/accordin-3.webp" data-webp-desktop="/content/dam/public/en_us/image/products/data-management-analytics/accordin-3.webp" data-jpg-mobile="/content/dam/public/en_us/image/products/data-management-analytics/accordin-3.jpg" data-jpg-desktop="/content/dam/public/en_us/image/products/data-management-analytics/accordin-3.jpg">
+			<div class="picture-accordion-txtWrap">
+
+				<h3>Data Lake Optimization</h3>
+
+
+				<p>Address your Data Lake and Warehouse challenges: Onboard data, optimize cost, manage sensitive information, and discover data for analytics.</p>
+			 
+			 
+			<a href="/en-us/solutions/modernize-digital-core/data-modernization/data-lakes-data-warehouses.html" target="_self" class="c-link white wa-card-cta-links">
+					LEARN MORE
+					<svg role="img">
+						<title>LEARN MORE</title>
+						<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="LEARN MORE"></use>
+					</svg>
+				</a>
+			</div>
+		</div>
+		
+		<div class="picture-accordion webpImg lazyload" data-bgset="/content/dam/public/en_us/image/products/data-management-analytics/accordin-4.jpg" data-webp-mobile="/content/dam/public/en_us/image/products/data-management-analytics/accordin-4.webp" data-webp-desktop="/content/dam/public/en_us/image/products/data-management-analytics/accordin-4.webp" data-jpg-mobile="/content/dam/public/en_us/image/products/data-management-analytics/accordin-4.jpg" data-jpg-desktop="/content/dam/public/en_us/image/products/data-management-analytics/accordin-4.jpg">
+			<div class="picture-accordion-txtWrap">
+
+				<h3>Data Integration</h3>
+
+
+				<p>Deliver automated and agile data flows from edge to multicloud environments no matter the volume or variety of data.</p>
+			 
+			 
+			<a href="/en-us/solutions/modernize-digital-core/data-modernization/data-integration.html" target="_self" class="c-link white wa-card-cta-links">
+					LEARN MORE
+					<svg role="img">
+						<title>LEARN MORE</title>
+						<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="LEARN MORE"></use>
+					</svg>
+				</a>
+			</div>
+		</div>
+		
+		<div class="picture-accordion webpImg lazyload" data-bgset="/content/dam/public/en_us/image/products/data-management-analytics/accordion-5.jpg" data-webp-mobile="/content/dam/public/en_us/image/products/data-management-analytics/accordion-5.webp" data-webp-desktop="/content/dam/public/en_us/image/products/data-management-analytics/accordion-5.webp" data-jpg-mobile="/content/dam/public/en_us/image/products/data-management-analytics/accordion-5.jpg" data-jpg-desktop="/content/dam/public/en_us/image/products/data-management-analytics/accordion-5.jpg">
+			<div class="picture-accordion-txtWrap">
+
+				<h3>Lumada and Pentaho Implementation Services</h3>
+
+
+				<p>Packaged services let you collaborate with experts to architect, implement, deploy, and manage a solution tailored to your needs.</p>
+			 
+			 
+			<a href="/en-us/services/consulting-services/ai-insights.html" target="_self" class="c-link white wa-card-cta-links">
+					LEARN MORE
+					<svg role="img">
+						<title>LEARN MORE</title>
+						<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="LEARN MORE"></use>
+					</svg>
+				</a>
+			</div>
+		</div>
+		
+	</div>
+	
+</section>
+</div>
+
+    
+</div></div>
+<div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+
+  
+<div class="cmp-experiencefragment cmp-experiencefragment--hv-footer-v1">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="footer parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+<footer data-component-title="Footer" data-component-id="hv-footer">
+	<section class="footer-section1">
+		<div class="container">
+			<div class="row footer-icon-links justify-content-center">
+				 <!-- Slim Footer Start -->	
+				 
+
+				
+
+              
+
+
+
+<div class="col icon-link">
+					<a class="card-link1" href="/en-us/products/data-management-analytics/pentaho/download-pentaho.html" rel="noopener" target="_self">
+						<svg role="img" aria-labelledby="download-pentaho">
+							<title id="download-pentaho">DOWNLOAD PENTAHO</title>
+							<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#download-pentaho-new" xlink:title="DOWNLOAD PENTAHO"></use>
+						</svg>
+						<h3 class="engind">Download<br />
+Pentaho</h3> 
+					</a>
+				</div>
+<div class="col icon-link">
+					<a class="card-link1" href="/en-us/newsroom-hvtv/blog.html" rel="noopener" target="_self">
+						<svg role="img" aria-labelledby="read-our-blogs">
+							<title id="read-our-blogs">READ OUR BLOGS</title>
+							<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#read-our-blogs-icon" xlink:title="READ OUR BLOGS"></use>
+						</svg>
+						<h3 class="engind">Read Our<br />
+Blogs</h3> 
+					</a>
+				</div>
+<div class="col icon-link">
+					<a class="card-link1" href="https://support.hitachivantara.com/en/anonymous-dashboard.html" rel="noopener" target="_blank">
+						<svg role="img" aria-labelledby="get-support">
+							<title id="get-support">GET SUPPORT</title>
+							<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#get-support-new" xlink:title="GET SUPPORT"></use>
+						</svg>
+						<h3 class="engind">Get<br />
+Support</h3> 
+					</a>
+				</div>
+<div class="col icon-link">
+					<a class="card-link1" href="/en-us/services/training.html" rel="noopener" target="_self">
+						<svg role="img" aria-labelledby="find-training">
+							<title id="find-training">FIND TRAINING</title>
+							<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#find-training-icon" xlink:title="FIND TRAINING"></use>
+						</svg>
+						<h3 class="engind">Find<br />
+Training</h3> 
+					</a>
+				</div>
+<div class="col icon-link">
+					<a class="card-link1" href="https://www.hitachivantara.com/partnerlocator/en_us/partnerlocator.html" rel="noopener" target="_blank">
+						<svg role="img" aria-labelledby="find-a-partner">
+							<title id="find-a-partner">FIND A PARTNER</title>
+							<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#find-a-partner-icon" xlink:title="FIND A PARTNER"></use>
+						</svg>
+						<h3 class="engind">Find a<br />
+Partner</h3> 
+					</a>
+				</div>
+
+
+
+
+
+
+
+
+
+               <!-- Slim Footer End--> 
+			</div>
+		</div>
+	</section>
+	<section class="footer-section2">
+		<div class="container">
+			<div class="row">
+				
+	 <!-- Multilinks Parbase Start -->	
+
+
+
+
+    
+    
+    <div class="multilinks parbase">
+
+
+
+					<div class="footer-qlinks" id="footer-div-1">
+						<ul>
+                        
+							   <li> EXPLORE</li>
+
+								
+							   
+
+								<li> <a rel="" href="/en-us/products/storage/flash-storage/enterprise.html" target="_self" title="Enterprise Storage">Enterprise Storage
+								
+								
+								
+								</a>
+								</li>
+							   
+
+								<li> <a rel="" href="/en-us/products/iot-software-solutions.html" target="_self" title="IoT Software and Solutions">IoT Software and Solutions
+								
+								
+								
+								</a>
+								</li>
+							   
+
+								<li> <a rel="" href="/en-us/products/data-management-analytics/lumada-data-integration.html" target="_self" title="Lumada Data Integration">Lumada Data Integration
+								
+								
+								
+								</a>
+								</li>
+							   
+
+								<li> <a rel="" href="/en-us/products/storage/object-storage.html" target="_self" title="Object Storage">Object Storage
+								
+								
+								
+								</a>
+								</li>
+							   
+
+								<li> <a rel="" href="/en-us/products/storage/flash-storage/enterprise/vsp-5000-series.html" target="_self" title="Hitachi Virtual Storage Platform 5000 Series">Hitachi Virtual Storage Platform 5000 Series
+								
+								
+								
+								</a>
+								</li>
+							   
+
+								<li> <a rel="" href="/en-us/everflex.html" target="_self" title="EverFlex from Hitachi">EverFlex from Hitachi
+								
+								
+								
+								</a>
+								</li>
+						</ul>
+					</div>
+</div>
+
+
+    
+    
+    <div class="multilinks parbase">
+
+
+
+					<div class="footer-qlinks" id="footer-div-2">
+						<ul>
+                        
+							   <li> LEARN</li>
+
+								
+							   
+
+								<li> <a rel="" href="/en-us/resources.html" target="_self" title="Resource Library">Resource Library
+								
+								
+								
+								</a>
+								</li>
+							   
+
+								<li> <a rel="" href="https://knowledge.hitachivantara.com/Documents" target="_blank" title="Product Documentation">Product Documentation
+								
+								<svg role="img" class="external-icon">
+                                <title>Product Documentation</title>
+                                <use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#external" xlink:title="Product Documentation"></use>
+                                </svg>
+								
+								</a>
+								</li>
+							   
+
+								<li> <a rel="" href="/en-us/services/training.html" target="_self" title="Infrastructure Training">Infrastructure Training
+								
+								
+								
+								</a>
+								</li>
+							   
+
+								<li> <a rel="" href="https://learning.lumada.hitachivantara.com/" target="_blank" title="Pentaho &amp; Lumada Training">Pentaho &amp; Lumada Training
+								
+								<svg role="img" class="external-icon">
+                                <title>Pentaho &amp; Lumada Training</title>
+                                <use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#external" xlink:title="Pentaho &amp; Lumada Training"></use>
+                                </svg>
+								
+								</a>
+								</li>
+							   
+
+								<li> <a rel="" href="/en-us/newsroom-hvtv/blog.html" target="_self" title="Blog">Blog
+								
+								
+								
+								</a>
+								</li>
+						</ul>
+					</div>
+</div>
+
+
+    
+    
+    <div class="multilinks parbase">
+
+
+
+					<div class="footer-qlinks" id="footer-div-3">
+						<ul>
+                        
+							   <li> COMPANY</li>
+
+								
+							   
+
+								<li> <a rel="" href="/en-us/company/careers.html" target="_self" title="Careers">Careers
+								
+								
+								
+								</a>
+								</li>
+							   
+
+								<li> <a rel="" href="/en-us/company/leadership.html" target="_self" title="Leadership">Leadership
+								
+								
+								
+								</a>
+								</li>
+							   
+
+								<li> <a rel="" href="/en-us/newsroom-hvtv/in-the-press.html" target="_self" title="Press Releases">Press Releases
+								
+								
+								
+								</a>
+								</li>
+							   
+
+								<li> <a rel="" href="/en-us/company/awards.html" target="_self" title="Awards &amp; Recognition">Awards &amp; Recognition
+								
+								
+								
+								</a>
+								</li>
+							   
+
+								<li> <a rel="" href="/en-us/preference-center.html" target="_self" title="Preference Center">Preference Center
+								
+								
+								
+								</a>
+								</li>
+							   
+
+								<li> <a rel="" href="/en-us/company/legal.ethics.html" target="_self" title="Ethics &amp; Business Conduct">Ethics &amp; Business Conduct
+								
+								
+								
+								</a>
+								</li>
+							   
+
+								<li> <a rel="" href="/en-us/pdf/legal/modern-slavery-transparency-statement.pdf" target="_blank" title="Modern Slavery Transparency Statement">Modern Slavery Transparency Statement
+								
+								
+								
+								</a>
+								</li>
+						</ul>
+					</div>
+</div>
+
+
+
+					 <!-- Multilinks Parbase End -->	
+				<div class="col-md-3">
+					<div class="footer-social-contact">
+						<div class="contact-list">
+							 <!-- contactList Start -->	
+              
+
+
+<div class="title">Get in Touch</div>
+							<div class="row">
+								
+								
+								
+								
+								
+									
+									
+									
+									
+									
+									 
+									
+									
+									
+									
+								
+								
+								
+								
+								<div class="col-md-6 list-item" id="footer-cotactlist-1">
+									<a class="card-link1" href="tel://+17207384141" rel="noopener" target="_self">
+
+										<svg role="img" aria-labelledby="/content/dam/public/en_us/image/common/header-footer-sprite.svg#calling">
+										
+											<title id="/content/dam/public/en_us/image/common/header-footer-sprite.svg#calling">1-720-738-4141</title>
+											<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#calling" xlink:title="1-720-738-4141"></use>
+										</svg>
+										<h3>1-720-738-4141</h3>
+									</a>
+									
+								</div>
+								
+								
+								
+								
+								
+									
+									
+									
+									
+									
+									 
+									
+									
+									
+									
+								
+								
+								
+								
+								<div class="col-md-6 list-item" id="footer-cotactlist-2">
+									<a class="card-link1" href="/en-us/company/contact/worldwide-locations.html" rel="noopener" target="_self">
+
+										<svg role="img" aria-labelledby="/content/dam/public/en_us/image/common/header-footer-sprite.svg#location">
+										
+											<title id="/content/dam/public/en_us/image/common/header-footer-sprite.svg#location">See Our Locations</title>
+											<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#location" xlink:title="See Our Locations"></use>
+										</svg>
+										<h3>See Our Locations</h3>
+									</a>
+									
+								</div>
+								
+								
+								
+								
+								
+									
+									
+									
+									
+									
+									 
+									
+									
+									
+									
+								
+								
+								
+								
+								<div class="col-md-6 list-item" id="footer-cotactlist-3">
+									<a class="card-link1" data-formtitle="LET US HELP YOU FIND THE BEST SOLUTIONS" href="https://pages.hitachivantara.com/contact-sales-ph.html" rel="iframemodal" target="_self">
+
+										<svg role="img" aria-labelledby="/content/dam/public/en_us/image/common/header-footer-sprite.svg#contact-us">
+										
+											<title id="/content/dam/public/en_us/image/common/header-footer-sprite.svg#contact-us">Contact Us</title>
+											<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#contact-us" xlink:title="Contact Us"></use>
+										</svg>
+										<h3>Contact Us</h3>
+									</a>
+									
+								</div>
+								
+								
+								
+								
+								
+									
+									
+									
+									
+									
+									 
+									
+									
+									
+									
+								
+								
+								
+								
+								<div class="col-md-6 list-item" id="footer-cotactlist-4">
+									<a class="card-link1" href="https://support.hitachivantara.com/" rel="noopener" target="_blank">
+
+										<svg role="img" aria-labelledby="/content/dam/public/en_us/image/common/header-footer-sprite.svg#support">
+										
+											<title id="/content/dam/public/en_us/image/common/header-footer-sprite.svg#support">Support</title>
+											<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#support" xlink:title="Support"></use>
+										</svg>
+										<h3>Support</h3>
+									</a>
+									
+								</div>
+								
+								
+								
+								
+								
+									
+									
+									
+									
+									
+									 
+									
+									
+									
+									
+								
+								
+								
+								
+								<div class="col-md-6 list-item" id="footer-cotactlist-5">
+									<a class="card-link1" href="https://hitachivantara.com/hotline" rel="noopener" target="_blank">
+
+										<svg role="img" aria-labelledby="/content/dam/public/en_us/image/common/header-footer-sprite-new.svg#ethics-hotline">
+										
+											<title id="/content/dam/public/en_us/image/common/header-footer-sprite-new.svg#ethics-hotline">Ethics Hotline</title>
+											<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite-new.svg#ethics-hotline" xlink:title="Ethics Hotline"></use>
+										</svg>
+										<h3>Ethics Hotline</h3>
+									</a>
+									
+								</div>
+								
+								
+								
+								
+								
+									
+									
+									
+									
+									
+									 
+									
+									
+									
+									
+								
+								
+								
+								
+								<div class="col-md-6 list-item" id="footer-cotactlist-6">
+									<a class="card-link1" href="https://theworknumber.com/" rel="noopener" target="_blank">
+
+										<svg role="img" aria-labelledby="/content/dam/public/en_us/image/common/header-footer-new-sprite.svg#emp-veri">
+										
+											<title id="/content/dam/public/en_us/image/common/header-footer-new-sprite.svg#emp-veri">Employment Verification</title>
+											<use xlink:href="/content/dam/public/en_us/image/common/header-footer-new-sprite.svg#emp-veri" xlink:title="Employment Verification"></use>
+										</svg>
+										<h3>Employment Verification</h3>
+									</a>
+									
+								</div>
+								
+								
+							</div>
+
+               <!-- contactList End--> 
+						</div>
+						<div class="social-list">
+							<div class="row">
+								 <!-- socialIcons Start -->	
+                
+						<div class="col-md-12 social-icons" id="footer-social-icons">
+						
+									<a href="https://twitter.com/HitachiVantara" target="_blank" rel="noopener">
+									
+										<svg role="img" class="icon-social">
+											<title>Twitter</title>
+											<use class="normal" xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#twitter"></use>
+											<use class="active" xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#twitter-hover"></use>
+										</svg>
+										
+										
+										
+									</a>
+									<a href="https://www.youtube.com/c/HitachiVantara" target="_blank" rel="noopener">
+									
+										<svg role="img" class="icon-social">
+											<title>YouTube</title>
+											<use class="normal" xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#youtube"></use>
+											<use class="active" xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#youtube-hover"></use>
+										</svg>
+										
+										
+										
+									</a>
+									<a href="https://www.linkedin.com/company/hitachi-vantara" target="_blank" rel="noopener">
+									
+										<svg role="img" class="icon-social">
+											<title>Linkedin</title>
+											<use class="normal" xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#linkedin"></use>
+											<use class="active" xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#linkedin-hover"></use>
+										</svg>
+										
+										
+										
+									</a>
+									<a href="https://www.facebook.com/HitachiVantara/" target="_blank" rel="noopener">
+									
+										<svg role="img" class="icon-social">
+											<title>Facebook</title>
+											<use class="normal" xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#facebook"></use>
+											<use class="active" xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#facebook-hover"></use>
+										</svg>
+										
+										
+										
+									</a>
+									<a href="https://www.instagram.com/hitachivantara/" target="_blank" rel="noopener">
+									
+										<svg role="img" class="icon-social">
+											<title>Instagram</title>
+											<use class="normal" xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#instagram"></use>
+											<use class="active" xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#instagram-hover"></use>
+										</svg>
+										
+										
+										
+									</a>
+									<a href="https://community.hitachivantara.com/s/" target="_blank" rel="noopener">
+									
+										<svg role="img" class="icon-social">
+											<title>Community</title>
+											<use class="normal" xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#community"></use>
+											<use class="active" xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#community-hover"></use>
+										</svg>
+										
+										
+										
+									</a>
+									
+								</div>
+
+               <!-- socialIcons End--> 
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12 hv-logo-txt"><a class="" href="/en-us/home.html" target="_self">Hitachi Vantara</a></div>
+			</div>
+		</div>
+	</section>
+	<section class="footer-section3">
+		<div class="hv-copyright-legal">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6 copyright"><p>© Hitachi Vantara LLC 2022. All Rights Reserved.</p>
+</div>
+					<div class="col-md-6 legal-links">
+						
+
+						<a href="/en-us/company/legal.websiteterms.html" target="_self">Terms of Use</a> |
+						
+
+						<a href="/en-us/company/legal.privacy.html" target="_self">Privacy Policy</a> |
+						
+
+						<a href="/en-us/company/legal.html" target="_self">Legal</a> |
+						
+
+						<a href="/en-us/sitemap.html" target="_self">Sitemap</a> 
+						
+						
+						</div>
+				</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<div id="modal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-vertical-align-section">
+    <div class="modal-dialog modal-full-screen modal-vertical-align-center">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="title" id="modalValProp">&nbsp;</div>
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="false">
+                  <span class="hv-close"></span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <!-- /# content goes here -->
+            </div>
+        </div>
+    </div>
+    </div>
+    </div>
+</footer>
+<div class="mktoform-field-label d-none">
+		<div class="mktoFirstName">First Name</div>
+		<div class="mktoLastName">Last Name</div>
+		<div class="mktoEmail">Business Email Address</div>
+		<div class="mktoTitle">Title</div>
+		<div class="mktoCompany">Company</div>
+		<div class="mktoAddress">Address</div>
+		<div class="mktoCity">City</div>
+		<div class="mktoPhone">Phone</div>
+		<div class="mktoPostalCode">Postal Code</div>
+		<div class="mktoleadCommentsExtended">Additional Information(optional)</div>
+	</div>
+
+<div class="mkto-contact-sales-ty d-none">
+	<p class="title-thankyou">
+		<img src="https://www.hitachivantara.com/marketo/aem/images/icon-ok.gif">Thank you. We will contact you shortly.</p>
+	<div class="thanktitle">
+		<p>Note: Since you opted to receive updates about solutions and news from us, you will receive an email shortly where you need to confirm your data via clicking on the link. Only after positive confirmation you are registered with us.</p>
+		<p>If you are already subscribed with us you will not receive any email from us where you need to confirm your data.</p>
+	</div>
+	<p class="subtitle-thankyou">Explore more about us:</p>
+	<br>
+	<ul class="thankyoulinks">
+		<li><a href="https://www.hitachivantara.com/en-us/news-resources/resources.html" target="_parent" title="Resources" class="c-link red">Resources <svg role="img">
+				<title>SEE MORE NEWS NOW</title>
+				<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="SEE MORE NEWS NOW"></use>
+			</svg></a>
+		</li>
+		<li><a href="https://www.hitachivantara.com/partnerlocator/en_us/partnerlocator.html" target="_blank" title="Partner Locator" class="c-link red">Partner Locator<svg role="img">
+                        <title>LET’S WORK TOGETHER</title>
+                        <use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#external" xlink:title="LET’S WORK TOGETHER"></use>
+                </svg></a>
+		</li>
+		<li><a href="https://community.hitachivantara.com/s/" target="_blank" title="" class="c-link red">Hitachi Vantara Community<svg role="img">
+                        <title>LET’S WORK TOGETHER</title>
+                        <use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#external" xlink:title="LET’S WORK TOGETHER"></use>
+                </svg></a>
+		</li>
+		<li><a href="http://support.hitachivantara.com/en_us/anonymous-dashboard.html" target="_blank" title="Support Connect" class="c-link red">Support Connect<svg role="img">
+                        <title>LET’S WORK TOGETHER</title>
+                        <use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#external" xlink:title="LET’S WORK TOGETHER"></use>
+                </svg></a>
+		</li>
+	</ul>
+</div>
+<div class="mkto-contact-sales d-none">
+	<div class="contact-info" style="min-height: 555px;">
+		<div class="contact-info1">
+			<img src="https://www.hitachivantara.com/marketo/aem/images/support.png">
+			<p class="headtitle">
+				To Talk to a Representative,
+				<br>Call <strong><a href="tel://1.858.225.2095" class="call" target="_parent" style="color: #0f8b8d;">1.858.225.2095</a></strong>
+			</p>
+		</div>
+		<div class="contact-info2">
+			<img src="https://www.hitachivantara.com/marketo/aem/images/support.png">
+			<p class="title">Corporate Headquarters</p>
+			<p class="sub-title">
+				<strong>Hitachi Vantara LLC</strong>
+				<br>2535 Augustine Drive
+				<br>Santa Clara, CA 95054
+			</p>
+			<br>
+			<div>
+				<a href="https://www.hitachivantara.com/en-us/company/contact/worldwide-locations.html" target="_blank" class="c-link red">
+					All Locations
+					<svg role="img" aria-labelledby="link-arrow">
+						<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="All Locations"></use>
+					</svg>
+				</a> 
+			</div>
+		</div>
+		<div class="contactus">
+			<a href="https://www.hitachivantara.com/en-us/company/legal.privacy.html" target="_blank" class="c-link red">
+				View privacy policy
+				<svg role="img" aria-labelledby="link-arrow">
+					<use xlink:href="/content/dam/public/en_us/image/common/header-footer-sprite.svg#link-arrow" xlink:title="View Privacy Policy"></use>
+				</svg>
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="new-home-popup">
+    <div class="home-popup-container"><span class="close-icon"><span class="hv-close"></span></span>
+        <div class="inner-popup-content clearfix">
+            <h3>You’re in the Right Place!</h3>
+            <p class="first">Hitachi Data Systems, Pentaho and Hitachi Insight Group have merged into one company: <b>Hitachi Vantara.</b>
+            </p>
+            <p>The result? More data-driven solutions and innovation from the partner you can trust.</p>
+            <br />
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="c-btn red welcome-pop-btn">
+                        <a class="animateLink" href="/en-us/home.html">
+                            Visit Hitachi Vantara
+                           
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="c-btn red welcome-pop-btn wmc">
+                        <a class="animateLink" href="#">
+                            Continue
+                            
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="new-rean-popup">
+    <div class="rean-popup-container"><span class="close-icon"><span class="hv-close"></span></span>
+        <div class="inner-popup-content clearfix">
+            <h3>You’re in the Right Place!</h3>
+            <p class="first">REAN Cloud is now a part of <b>Hitachi Vantara.</b>
+                <br />The result? Robust data-driven solutions and innovation, with industry-leading expertise in cloud migration and modernization.</p>
+            <br />
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="c-btn red rean-pop-btn">
+                        <a class="animateLink" href="/en-us/home.html">
+                            Visit Hitachi Vantara
+                           
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="c-btn red rean-pop-btn wmc">
+                        <a class="animateLink" href="#">
+                            Continue
+                            
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="new-wline-popup">
+    <div class="wline-popup-container"><span class="close-icon"><span class="hv-close"></span></span>
+        <div class="inner-popup-content clearfix">
+            <h3>You’re in the Right Place!</h3>
+            <p class="first">Waterline Data is now Lumada Data Catalog, provided by Hitachi Vantara. Lumada Data Catalog, available stand-alone, is now part of the Lumada Data Services portfolio.</p>
+            <br />
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="c-btn red wline-pop-btn">
+                        <a class="animateLink" href="/en-us/products/data-management-analytics/lumada-data-catalog.html" target="_self">
+                            VISIT LUMADA DATA CATALOG
+                            
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="c-btn red wline-pop-btn wline">
+                        <a class="animateLink" href="/en-us/products/data-management-analytics/lumada-dataops-suite.html" target="_self">
+                            VISIT LUMADA DATA SERVICES
+                            
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="new-hcc-popup">
+    <div class="hcc-popup-container">
+        <span class="close-icon">
+            <span class="hv-close"></span>
+        </span>
+        <div class="inner-popup-content clearfix">
+            <h3>You’re in the Right Place!</h3>
+            <p class="first">Hitachi Consulting and Hitachi Vantara have integrated into a new company under the Hitachi Vantara brand. We help you connect what’s now to what’s next.</p>
+            <br />
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="c-btn red hcc-pop-btn">
+                        <a class="animateLink" href="/en-us/company.html" target="_self">
+                            KNOW MORE
+                           
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="c-btn red hcc-pop-btn hcc"><a class="animateLink" href="#">
+                        CONTINUE
+                        
+                    </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="hv_privacy_prompt explicit_consent">
+    <div class="hv_privacy_prompt_content">
+        <p>This site uses cookies from Hitachi and third parties for our own business purposes and to personalize your experience. By using this site, you agree to the use of cookies. For more information, visit <a href="/en-us/company/legal.privacy.cookie-policy.html">Hitachi Cookies Policy</a>.</p>
+    </div>
+    <div class="hv_close_btn_thick"> </div>
+</div>
+</div>
+<div class="list aem-GridColumn aem-GridColumn--default--12">
+
+
+    
+
+</div>
+<div class="injectioncomponent aem-GridColumn aem-GridColumn--default--12">
+ <div>
+  
+  </div>
+ <style>
+  @media only screen and (max-width: 991px) {
+footer .footer-section2 .footer-social-contact .contact-list h3 {
+    font-size: .75rem;
+    word-break: unset;
+}
+}
+  </style>
+  <script>
+  
+   </script>
+
+</div>
+
+    
+</div></div>
+
+    
+</div>
+
+    
+</div></div>
+
+
+            
+        
+
+
+
+    
+
+
+  
+
+
+    
+<script type="text/javascript" src="/etc.clientlibs/hitachivantara/clientlibs/clientlib-hv-min.min.js"></script>
+
+
+
+
+	 
+
+	 
+     
+    
+
+    
+
+
+		    
+
+
+
+  
+
+  
+    
+
+
+
+
+    <script>
+var pageTitle="Data Management and Analytics";
+var englishPageTitle="Data Management and Analytics";
+var primaryCategory="",subSection="",subSubSection="", errorPage="",redirectUrl="";
+</script>
+    
+        <script src="https://www.hitachivantara.com/etc/clientlibs/hdscorp/tealium.js"></script>
+    
+
+  
+
+
+<div style="display: none;" class="bcobjmarkup">
+      <script src="https://players.brightcove.net/3971130171001/kr1cZV8I4_default/index.min.js"></script>
+        <script src="https://players.brightcove.net/videojs-overlay/2/videojs-overlay.min.js"></script>
+        <script defer src="//d2qrdklrsxowl2.cloudfront.net/js/hapyak.js"></script>
+        <script defer src="https://www.hitachivantara.com/etc/clientlibs/hdscorp/adobe-analytics.min.bf3d9fae4b1c6cea9a210473ef70688d.js"></script>
+    </div>
+
+
+
+<div class="d-none" id="tealium_lcode">en</div>
+<div class="d-none" id="vidlist">
+<script type="text/javascript">
+    var bcVideoPlistObject= {
+"items": [{
+"vid": "6190981946001",
+"pid": "1680059914913791402"
+},{
+"vid": "6172736067001",
+"pid": "1680066547990555495"
+},{
+"vid": "6198212182001",
+"pid": "1680067261555004451"
+}]
+};
+</script>
+</div>
+
+
+
+        <script type="text/javascript">
+            (function(a,b,c,d){
+            a='//tags.tiqcdn.com/utag/hitachi/main/prod/utag.js';
+            b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+            a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+            })();
+        </script>
+
+
+
+
+
+            
+
+        
+    </body>
+</html>
